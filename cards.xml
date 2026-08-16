@@ -1,0 +1,4487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>WOB</name>
+      <longname>War of the Bloodsteppe</longname>
+      <settype>custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>The Great Elder</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elder Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hamsters spells cost {2} less to cast.
+At the beginning of your postcombat main phase, you may pay {3}, if you do, return target Hamster creature with mana value of 3 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Steppe Rusher</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell cost {2} less to cast if you control a creature named Steppe Rusher.
+A deck can have any number of cards named Steppe Rusher.</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Courier</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bloodsteppe Courier enters and attacks, create a Food token.</text>
+    </card>
+    <card>
+      <name>Hamster Ambush</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, tap two untapped creatures you control.
+Destroy target nonwhite creature.</text>
+    </card>
+    <card>
+      <name>Ixatli, Wings of the Woods</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike
+Whenever you attack, for each opponent, create a 1/1 green and white Hamster Warrior that’s tapped and attacking that player.
+1GG: Until the end of turn, other creatures you control gets +1/+1 and gains hexproof until the end of turn.</text>
+    </card>
+    <card>
+      <name>Hamster Conscription</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, create a 1/1 white Hamster Soldier token with vigilance.
+3W, sacrifice Hamster Conscription: Search in your library for a Knight creature and put it onto the battlefield. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Sunsteppe Channeler</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {W}. Spend this mana only to cast noncreature spells.</text>
+    </card>
+    <card>
+      <name>Calming Burrows</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, put a Hoard counter on target creature you control.
+Remove a Hoard counter from a permanent you control: You gain 3 life. Draw a card. Activate this ability only as a sorcery and only during your turn.</text>
+    </card>
+    <card>
+      <name>Ceaseless Burrower</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may create a Food token or a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)
+{T}, sacrifice an artifact: Put a Hoard counter on target permanent you control.</text>
+    </card>
+    <card>
+      <name>Impervious Recruit</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type> Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Impervious Recruit: Target creature you control gets indestructible until the end of turn. Put a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Steppe Supplier</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type> Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Steppe Supplier enters, create three Food tokens.</text>
+    </card>
+    <card>
+      <name>4th Order Paladin</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When 4th Order Paladin enters, put a +1/+1 counter on target creature you control.
+Whenever 4th Order Paladin attacks, target creature an opponent controls gets -1/-0 until the end of turn.</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Roadblockers</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodsteppe Roadblockers can block more than one creature as long it has a Hoard counter on it.
+Whenever this creature receives combat damage, create a Food token.</text>
+    </card>
+    <card>
+      <name>Crisis Engulfed Hamster</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Crisis Engulfed Hamster enters, scry 1.</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Irregulars</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>*/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodsteppe Irregulars power its equal to the number of hamster creatures you control.</text>
+    </card>
+    <card>
+      <name>Caugh Pawn</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Lucky Slip!</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>Hiero-Binding</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell cost {2} less to cast if it targets a creature with power 4 or greater.
+Enchant target creature.
+Enchanted creature loses all abilities and can’t attack or block.
+{3}, sacrifice Hiero-Binding: Exile enchanted creature.</text>
+    </card>
+    <card>
+      <name>Fallen-Pass Griffin</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Tireless Sentinel</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Tireless Sentinel can block any number of creatures.
+Whenever this creatures blocks a creature, put a Hoard counter on a creature you control.</text>
+    </card>
+    <card>
+      <name>Opulent Courtroom</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures and artifacts your opponents control enters tapped.</text>
+    </card>
+    <card>
+      <name>Refractive Wave</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Refractive Wave deals 5 damage to target tapped creature.</text>
+    </card>
+    <card>
+      <name>Armageddon</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type> Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all lands.</text>
+    </card>
+    <card>
+      <name>Grove Captain</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from Green (This creature can’t be blocked, targeted or dealt damage by Green.)
+When Grove Captaine enters, create a 1/1 white Hamster Soldier creature token.</text>
+    </card>
+    <card>
+      <name>Steppe Hoarder</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Steppe Hoarder enters, create a Food token.
+Whenever you sacrifice an artifact, create a 1/1 white Hamster creature token.</text>
+    </card>
+    <card>
+      <name>Argent-Wind Instructor</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Argent-Wind Instructor enters, search in your library for an artifact with mana value 3 or less, and put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Aerial Grenadier</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Aerial Grenadier can’t block creatures with flying.
+Whenever Aerial Grenadier deals combat damage to a player, destroy target artifact or enchantment that player controls.</text>
+    </card>
+    <card>
+      <name>Defend the Gates!</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Hamster Soldier creature tokens.
+Put a Hoard counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Alpine Bulwark</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Alpine Bulwark enters, create a 1/2 white and blue Hamster Soldier creature token with vigilance.
+Alpine Bulwark gets +2/+0 as long it has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Sunsteppe&apos;s Blessing</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.</text>
+    </card>
+    <card>
+      <name>Smothering Tithe</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent draws a card, that player may pay {2}. If the player doesn’t, you create a Treasure token. (It’s an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Enlightned Tutor</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</text>
+    </card>
+    <card>
+      <name>Battle Griffin</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WWW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Each player can’t cast more than one spell each turn.
+Whenever a creature an opponent controls enters, that player may pay {1}, if they don’t, that creature enters tapped.</text>
+    </card>
+    <card>
+      <name>Stoic Forager</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stoic Forager enters or leaves, create a Food token.</text>
+    </card>
+    <card>
+      <name>Zealous Preacher</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Creatures can’t attack you unless their controller pays {1} for each creature they control that’s attacking you.</text>
+    </card>
+    <card>
+      <name>Hedonia Inspector</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hedonia Inspector enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Not Yet!</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains indestructible until the end of turn.
+Scry 1. Put a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Revitalize</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 3 life.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Gift of Light</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Creatures target player control gains indestructible until the end of turn.
+• Creature target player control gains lifelink until the end of turn.</text>
+    </card>
+    <card>
+      <name>Steppe Wrecker</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Lizard Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Steppe Wrecker enters, sacrifice a Food or a Resource, if you do, put a Hoard counter on this creature.
+Whenever Steppe Wrecker attacks, destroy a number of artifacts and enchantments equal to the number of Hoard counters on this creature.</text>
+    </card>
+    <card>
+      <name>War Balista</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell cost {1} less to cast for each Soldier you control.
+Vigilance
+Whenever you attack, you may sacrifice an artifact, if you do, War Balista deals 4 damage to target creature that’s tapped.
+Crew 3</text>
+    </card>
+    <card>
+      <name>Zweihänder</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+3 and may block up to two additional creatures.
+Equipped creature has “{T}, 3W: Equipped creature deals damage equal to its power to each creature that’s blocking it. Activate only during declaring blockers step.”
+Equip 2W</text>
+    </card>
+    <card>
+      <name>Mechanomancer</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mechanomancer enters, create a 2/2 black Hamster Zombie artifact creature tokens.
+{T}, XU, sacrifice a creature: Counter target spell with mana value of X.</text>
+    </card>
+    <card>
+      <name>Water Flurry</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell cost UU to cast if you control both a Food and a Hamster creature.
+Put target permanent or spell on top of your opponent’s library.</text>
+    </card>
+    <card>
+      <name>Unskilled Concoctioner</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Unskilled Concoctioner enters, you may sacrifice a Food or a Resource, if you do, put a Hoard counter on this creature.
+{T}, remove a Hoard counter from this creature: Create a Clue token. If you drew two or more cards this turn, create a Treasure token instead.</text>
+    </card>
+    <card>
+      <name>Field Mender</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Field Mender enters, you may return target artifact with mana value of 3 or less from your graveyard and put it into your hand. If you do, that spell cost {2} less to cast until the end of turn.</text>
+    </card>
+    <card>
+      <name>Argent-Wind Deflecter</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type> Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, choose one —
+• Counter target noncreature spell.
+• You may choose new targets for target spell or ability.</text>
+    </card>
+    <card>
+      <name>Alimancy Apprenctice</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if an Artifact left the battlefield this turn, draw a card.
+Alimancy Apprenctice gets +2/+3 and have flying as long it has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Stormy Clasher</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Stormy Clasher enters, you may sacrifice a Food, if you do, put a Hoard counter on it.
+Whenever Stormy Clasher becomes blocked, if it has a Hoard counter on it, tap target creature you don’t control, an put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Tidal Bearer</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Tidal Bearer enters, return target nonland permanent to its owner hand. Draw a card. 
+Evoke 1U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
+    </card>
+    <card>
+      <name>Argent-Wind Artisan</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifacts spells you cast {1} less to cast as long Argent-Wind Artisan has a Hoard counter on it.
+Remove a Hoard counter on this creature: Target artifact gains hexproof until the end of turn.</text>
+    </card>
+    <card>
+      <name>LakeWinder</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {4} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)
+Islandcycling {2}  ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Counterspell</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.</text>
+    </card>
+    <card>
+      <name>Argent-Wind Peaks</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a noncreature spell, create two 2/2 blue elemental creature tokens with flying.
+Cycling XXU (XXU, Discard this card: Draw a card.)
+Whenever you cycle Argent-Wind Peaks, create X 2/2 blue elemental creature tokens with flying.</text>
+    </card>
+    <card>
+      <name>Steppe Watch</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1 (Look at the top card of your library. You may put it into your graveyard.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Icy Imprissionment</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature. 
+When Icy Imprissionment enters, tap enchanted creature.
+Enchanted creatuer loses all abilities and doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Aetheric Grasp</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type> Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}. If you control a Resource, counter that spell instead.</text>
+    </card>
+    <card>
+      <name>Archivist&apos;s Insight</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 2, then return target artifact from your graveyard to your hand, if you sacrificed an artifact this turn, draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Crossbowkys&apos;s Goggles</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has “Whenever this creature deals combat damage to a player, draw a card.”
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Crossbowkys Battery</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Crossbowkys Battery enters, choose one —
+• Tap target creature an opponent controls and put two stun counters on it.
+• Return target spell to the top of its owner library.</text>
+    </card>
+    <card>
+      <name>Steppe Mirage</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.
+Create a Resource token.  (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Calculated Laceration</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-0 until the end of turn. If you control a Resource artifact, draw a card.</text>
+    </card>
+    <card>
+      <name>Archives of the Peaks</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, put a Hoard counter on a creature you control.
+2U, sacrifice Archives of the Peaks: Draw a card.</text>
+    </card>
+    <card>
+      <name>Frost-Bound Edict</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target artifact or creature, then put a stun counter on it. 
+Alimancy Applied — You may remove a hoard counter from a permanent you control, if you do, put an additional stun counter on that card, then draw a card.</text>
+    </card>
+    <card>
+      <name>Boreal Reflection</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature. Put a Hoard counter on that token.</text>
+    </card>
+    <card>
+      <name>Tides of Alimancy</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UUU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Return up to three target nonland permanents to their owners’ hands. Draw three cards.</text>
+    </card>
+    <card>
+      <name>Boreal Mirror</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1},{T}: Copy target activated ability target creature or an artifact you control. (Mana abilities can’t be copied.)</text>
+    </card>
+    <card>
+      <name>Alimancer Mentor</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When this creature enters, sacrifice a Food or a Resource, if you do, put a Hoard counter on it.
+Remove a Hoard counter on this creature: Create a Food token, then, you may return target instant or sorcery from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Enter the Alimancy</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a Hoard counter on target creature you control.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Matriarch&apos;s Edict</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+At the beginning of your next upkeep, sacrifice a number of Foods equal to the mana value of that spell. If you don’t you lose the game.</text>
+    </card>
+    <card>
+      <name>Rebuke of Winter</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature spell unless its controller pays {2} or sacrifices an artifact.</text>
+    </card>
+    <card>
+      <name>Boreal Boon</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. Untap up to three lands.</text>
+    </card>
+    <card>
+      <name>Ominous Decree</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exchange control of all nonland permanents you control and all nonland permanents target opponent controls.
+Take an extra turn after this one.
+Exile Ominous Decree.</text>
+    </card>
+    <card>
+      <name>Stormy Scavenger</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken Artifact you control is put into the graveyard from the battlefield, create a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Eirik XII, Stout Tactician</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, create a 0/0 colorless Construct artifact creature with “This creature gets +1/+ for each artifact you control.”
+Whenever an artifact creature enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Argent-Wind Breeder</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard —When Argent-Wind Breeder enters, sacrifice a Food, if you do, put a Hoard counter on it.
+{T}, 2W, remove a Hoard counter on this creature: Create a 2/3 blue and white Hamster Knight token with vigiliance.</text>
+    </card>
+    <card>
+      <name>Stormborn Drake</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying 
+Prowess, prowess (Whenever you cast a noncreature spell this creature gets +1/+1 until the end of turn twice.)</text>
+    </card>
+    <card>
+      <name>Snow-Born Guinea Pigs</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Snow-Born Guinea Pigs enters, create two Food tokens.</text>
+    </card>
+    <card>
+      <name>Argent-Wind General</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Hamsters and artifact creatures you control gets +1/+1.
+1WU, sacrifice a Food or a Resource: Create a 0/0 colorless Construct artifact creature with “This creature gets +1/+1 for each artifact you control.”</text>
+    </card>
+    <card>
+      <name>Boreal Fisher</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you control a Hamster and an Artifact, create a Food token.</text>
+    </card>
+    <card>
+      <name>Flutter-fluff Icy Scholar</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UUU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alimancy — As Flutter-fluff Icy Scholar enters, you may sacrifice up to three Foods. For each Food sacrificed this way, tap target creature you don’t control and put a stun counter on it. </text>
+    </card>
+    <card>
+      <name>Pragmatic Mechanist</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pragmatic Mechanist enters, return target artifact from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Stormy Slider</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for Artifacts  (This spell costs {1} less to cast for each Artifacts  you control.)
+Stormy Slider can’t be blocked. 
+Whenever Stormy Slider deals combat damage to a player, draw a card. 
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Feed the Matriarch</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell cost {2} less to cast if targets a creature with power 1 or less.
+Destroy target nonlegendary creature.</text>
+    </card>
+    <card>
+      <name>Black-Wind Skirmishers</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Black-Wind Skirmishers dies, create a 2/1 black Hamster Mercenary token.</text>
+    </card>
+    <card>
+      <name>Greedy Hoarding</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may pay 1B and sacrifice a Food rather than paying this spell mana cost.
+Draw two cards. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Pip&apos;s Apprenctice</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alimancy — As Pip’s Apprenctice enters, you may sacrifice two Foods, if you do, destroy target creature.</text>
+    </card>
+    <card>
+      <name>Hexing Burst</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -1/-1 until the end of turn. If that creature dies this turn this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Desperate Excavation</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type> Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature, an artifact or a resource. 
+Draw two cards, you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Black-Wind Slicer</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Black-Wind Slicer enters, target creature gets -1/-1 until the end of turn. If you control three or more artifacts, target creature gets -2/-2 instead.</text>
+    </card>
+    <card>
+      <name>Scavenger&apos;s Ploy</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until the end of turn. If you control a Resource or an Artifact, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Tribute to the Den</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent sacrifices a creature. For each creature sacrificed this way, create a Food token.</text>
+    </card>
+    <card>
+      <name>Life Siphoning</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -4/-4 until the end of turn. You gain 4 life.</text>
+    </card>
+    <card>
+      <name>Black-Market Extortion</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -1/-1 until the end of turn for each artifact you control. Put a Hoard counter on target permanent.</text>
+    </card>
+    <card>
+      <name>Rusty Plague</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Tragic Downfall</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BBB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.</text>
+    </card>
+    <card>
+      <name>Rain of Sorrows</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until the end of turn, all creatures gets -2/-2.
+Alimancy Applied — You may remove a Hoard counter from a permanent you control, if you do, all creatures gets -4/-4 instead.</text>
+    </card>
+    <card>
+      <name>Black-Wind Harasser</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature dies, Black-Wind Harasser deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Steel-Paws of the Taiga</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RRGG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>7/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control with power 7 or greater have riot (This creature enters with your choice of a +1/+1 counter or haste.)</text>
+    </card>
+    <card>
+      <name>Karran Dread-Fang</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
+Karran Dread-Fang has +2/+2 has long an opponent lost life this turn.</text>
+    </card>
+    <card>
+      <name>Hedonia Brigands</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+At the beginning of each opponent upkeep, that player loses 1 life and you gain 1 life as long this creature has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Stitched Aberration</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hamster Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace 
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Mill Servant</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mill Servant enters or attacks, mill a card.</text>
+    </card>
+    <card>
+      <name>Pips, Undaunted Academyst</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Hamster Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifacts you control with mana cost {2} or less, are 1/1 black Zombie artifact creatures in addition to it other types.
+Whenever you cast Pips, Undaunted Academyst, create X Food tokens, equal to the mana spended to cast this spell.
+Pay 3 life, 1U: Draw a card.</text>
+    </card>
+    <card>
+      <name>Isabella, Black-Market Empress</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Hamster Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Black Market — Whenever an artifact you control enters, exile the top card from your library.
+Sacrifice an artifact, Pay 1 life: Put a card exiled with Isabella into your hand.”</text>
+    </card>
+    <card>
+      <name>4th Order General</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from Red (This creature can’t be blocked, targeted or dealt damage by Red.)
+Other Hamster and Soldier creatures you control gets +1/+1.
+Whenever a player cast a Red spell, put a +1/+1 counter on 4th Order General.</text>
+    </card>
+    <card>
+      <name>Ebonfang Prowler</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Dog Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Ebonfang Prowler attacks, you may sacrifice a creature, if you do, destroy target creaure an opponent controls.</text>
+    </card>
+    <card>
+      <name>Red-Errant Avenger</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster  Giant </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, discard a card.</text>
+    </card>
+    <card>
+      <name>Steampunk Revenant</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Hamster Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Steampunk Revenant enters, each player sacrifices a creature or an artifact they control. Each player who can’t loses 3 life.</text>
+    </card>
+    <card>
+      <name>Sylvine Outlaw</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sylvine Outlaw enters, target opponent may sacrifice a creature. If they don’t, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Disavowed Captain</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Disavowed Captain enters, create a 2/1 black Hamster Mercenary creature with menace.</text>
+    </card>
+    <card>
+      <name>Black-Wind Decree</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a creature, then choose one — 
+•Destroy target enchantment, you lose life equal to its mana value.
+•Return target creature from your graveyard and put it onto the battlefield. You lose life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Echoes of the Den</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with a Hoard counter on it dies, each oponent loses 2 life and you create a Food token.
+{1}, Sacrifice a Food or a Resource: Put a hoard counter on target permanent.</text>
+    </card>
+    <card>
+      <name>Unfatomable pact</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return X target creatures from your graveyard to your hand. If X if 5 or greater, put those cards onto the battlefield, you lose X life.</text>
+    </card>
+    <card>
+      <name>Agonizing Extraction</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player exiles two cards from their hand. You gain life equal to the total mana value of the exiled cards.</text>
+    </card>
+    <card>
+      <name>Altar of the Black-Winds</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature or an artifact is put into a graveyard from the battlefield, put a hoard counter on this card.
+Remove three hoard counters on this card: Draw two cards, you lose 3 life.</text>
+    </card>
+    <card>
+      <name>Steampunk Dead-Factory</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, if an artifact was put into your graveyard from the battlefield this turn, if you do, create a 2/2 black Hamster Zombie artifact creature token.</text>
+    </card>
+    <card>
+      <name>Cruel Bargain</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent may sacrifice three creatures, if they don’t choose one —
+• Draw three cards. You lose 3 life
+• Return target creature card from your graveyard. You lose 3 life
+• Target opponent discards two cards at random. You lose 3 life.</text>
+    </card>
+    <card>
+      <name>Ernie&apos;s Uprising</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Ernie’s Uprising enters, create a 2/2 black Hamster Zombie artifact creature token.
+1B, Remove a Hoard counter on Ernie’s Uprising: Create a 2/2 black Hamster Zombie artifact creature token.</text>
+    </card>
+    <card>
+      <name>Death Charm</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner control.”
+• Destroy target creature with toughness 2 or less.
+• Exile target player graveyard.</text>
+    </card>
+    <card>
+      <name>Outcasted Alimancer</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alimancy — As Outcasted Alimancer enters, you may sacrifice a Food, if you do, exile target creature card from your graveyard. Create copy of it except its a 4/4 black Zombie token with menace.</text>
+    </card>
+    <card>
+      <name>Karran Foreman</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+When Karran Foreman enters, destroy target creature, if a creature dies this way, create a Food token.</text>
+    </card>
+    <card>
+      <name>Marcelus, Scourge of Karra</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/RB/RB/R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hamsters you control have menace.
+Whenever Marcelus attacks, sacrifice any number of artifacts, target creature you control gets +X/+0 where X its the number of  artifacts sacrificed this way.</text>
+    </card>
+    <card>
+      <name>Winged Obliterator</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+When Winged Obliterator enters, nonartifact creatures get -X/-X where X is the number of artifacts you control.
+BB, discard a card from your hand:Winged Obliterator gains indestructible until the end of turn, tap it.</text>
+    </card>
+    <card>
+      <name>The Behemoth&apos;s Fang</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {1} less to cast for each creature that died this turn.
+Equipped creature has lifelink and must be blocked if able.
+Whenever equipped creature deals combat damage to a creature or a player, put that many +1/+1 counters on it.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Scout</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, when this creatuer enters, it deals 2 damage divided up to two target creatures or planeswalkers.</text>
+    </card>
+    <card>
+      <name>Karra&apos;s Battle Rage</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+1 until the end of turn. If its a Giant, it gets +4+/4  and gains trample until the end of turn instead.</text>
+    </card>
+    <card>
+      <name>Meanscale Pack</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Meanscale Pack enters, create two 3/2 red Lizard creature tokens with first strike.</text>
+    </card>
+    <card>
+      <name>Flame Impression</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a Food.
+Flame Impression deals 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Zealous Hoarder</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Zealous Hoarder enters, Sacrifice a Food, if you do, put a Hoard counter on it.
+Whenever Zealous Hoarder attacks, it deals 1 damage to each opponent. This ability triggers only if this creature has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Tormenting Voice</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, draw a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Hamster&apos;s Bonanza</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Meteor Storm</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XXXRR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Meteor Storm deals X damage to each opponent and each creature and planeswalkers those players control.</text>
+    </card>
+    <card>
+      <name>Karran Crusher</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Giant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever a creature with power 7 or greater enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Warchief</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Hamsters you control gets +1/+1 and have haste.
+Whenever Bloodsteppe Warchief attacks, create two 1/1 red Hamster creature tokens that are tapped and attacking.</text>
+    </card>
+    <card>
+      <name>The fall of Ur&apos;Aspri</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — As long you control The fall of Ur’Aspri, creatures you control gets +2/+0.
+II — Destroy up to three artifacts. Create a Resource token.
+III — Creatures you control with power 4 or greater can’t be blocked until the end of turn.</text>
+    </card>
+    <card>
+      <name>Raging Thunderfang</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RRR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Grove Razer</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long Grove Razer is equipped or enchanted, it gets +2/+1.
+As long an opponent controls a Forest, Grove Razer gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Brittle-Fang Vigilantes</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact you control enters, Brittle-Fang Vigilantes deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Char-Wood Avenger</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from White (This creature can’t be blocked, targeted or dealt damage by White.)
+Whenever Char-Wood Avenger attacks, it gets +1/+0 until the end of turn.</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Channeler</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Other Hamster creatures you control gets +1/+0.
+{T}, sacrifice a Food: Add {R}.</text>
+    </card>
+    <card>
+      <name>Dealer of the Steppe</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Dealer of the Steppe enters, create a Food token and a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Shatter</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type> Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Javelineers</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Bloodsteppe Javelineers enters, you may sacrifice a Food or a Resource, if you do, put a Hoard counter on it.
+Whenever Bloodsteppe Javelineers attacks, it deals 1 damage to any target. This ability triggers only if this creature has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Avenger of the Steppe</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Avenger of the Steppe must attack each turn if able
+At the beginning of your end step, you may sacrifice another creature. If you don’t, sacrifice Avenger of the Steppe.</text>
+    </card>
+    <card>
+      <name>Steppe Errand-Runner</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Steppe Errand-Runner enters, create a Resource token.  (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)
+Steppe Errand-Runner gets +1/+0 as long you control an artifact.</text>
+    </card>
+    <card>
+      <name>Gargant&apos;s Thrust</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>7R</manacost>
+        <cmc>8</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell cost {4} less to cast if you control a creature with power 7 or greater.
+Gargant’s Thrust deals 7 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Gargant&apos;s Last Swing</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
+Exile target creature. If it was legendary, each player loses life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Hamster Prospector</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Hamster Prospector: Create a Resource Token.  (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Rowdy Wing-Wrecker</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Archer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard  — You may sacrifice a Food or a Resource, if you do, put a Hoard counter on Rowdy Wing-Wrecker
+{5}, sacrifice an artifact, remove a hoard counter on this creature: Rowdy Wing-Wrecker deals 4 damage to any target.</text>
+    </card>
+    <card>
+      <name>Anger Charm</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets +2/+0 and gains haste until the end of turn.
+• Exile the top four cards from your library, until the end of the next turn you may play those cards.
+• Anger Charm deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Karran Arbalest</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Mercenary  </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{T}: Karran Arbalest deals 3 damage to target creature without flying.</text>
+    </card>
+    <card>
+      <name>Hulking Thunderfang</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever Hulking Thunderfang attacks, exile the top four cards from the top of your library, then you may cast any number of noncreature spells from among them without paying their mana cost.</text>
+    </card>
+    <card>
+      <name>Rookie Field Arsonist</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alimancy — As Rookie Field Arsonist enters you may sacrifice a Food, if you do, Rookie Field Arsonist deals 2 damage to target creature or planeswalker</text>
+    </card>
+    <card>
+      <name>Sandstorm Scavenger</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Sandstorm Scavenger enters, you may discard a card, if you do, draw a card and create a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Steppe Ambusher</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may discard a card from your hand as you cast this spell, if you do, you may cast it as it has flash.
+When Steppe Ambusher enters, it deals damage equal to its power to target player.</text>
+    </card>
+    <card>
+      <name>Rage Channeling</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until the end of turn, creatures you control +3/+0.
+Alimancy Applied — You may remove a hoard counter from a permanent you control as you cast this spell, if you do, creatures you control also gains trample and haste until the end of turn.</text>
+    </card>
+    <card>
+      <name>Glorious End</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type> Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)
+At the beginning of your next end step, you lose the game</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Ransacker</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Bloodsteppe Ransacker attacks, create a Food token.</text>
+    </card>
+    <card>
+      <name>Gus, Hope of the Steppe</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+{T}, 2RR: Hamsters you control gets +X/+0 where X is the number of hamsters you control.</text>
+    </card>
+    <card>
+      <name>The Crimson Thunder</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When The Crimson Thunder enters, it deals 3 damage to any target.
+Equipped creature gets +2/+0 and has first strike.
+Equip Legendary Hamster {R}
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Emberthrower</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Defender
+{T}, sacrifice an artifact: Emberthrower deals 4 damage to any target. Use this ability only if Emberthrower is a creature
+Crew 1. (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Steppe Battlements</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Steppe Battlements enters, choose Blood or Sun.
+• Blood — At the beginning of combat on your turn, target creature gets +2/+1 until the end of turn.
+• Sun — At the beginning of combat on your turn, create a 1/1 red Hamster creature token with haste.</text>
+    </card>
+    <card>
+      <name>Spiteful Clash</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spiteful Clash deals 3 damage to target creature you don’t control and 1 damage to target creature you control.
+Create a Food token.</text>
+    </card>
+    <card>
+      <name>Hamster&apos;s Bolt</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Hamster’s Bolt deals 2 damage to target creature.
+Alimancy Applied — You may remove a Hoard counter from a permanent you control. If you do, Hamster’s Bolt deals 5 damage to target creature instead.</text>
+    </card>
+    <card>
+      <name>Broken-Twig Shaman</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Giant Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}.
+Channel — 3G, discard Broken-Twig Shaman: Search your library for two basic land cards, put those cards onto the battlefield, then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Enraged Hermit</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4RG, sacrifice Enraged Hermit: Put six +1/+1 counters on target land you control, it becomes a 0/0 red and green Elemental creature with trample and haste. It’s still a land. Activate this ability only if Enraged Hermit has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Jolly Relatives</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type> Creature - Hamster Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Jolly Relatives enters, create a Food token.</text>
+    </card>
+    <card>
+      <name>Peaceful Wanderer</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Peaceful Wanderer enters, create three tapped Food tokens.
+Trample
+Peaceful Wanderer can’t attack or block if you have Food in play.</text>
+    </card>
+    <card>
+      <name>Char-Wood Channeler</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Regal Crystal Horn</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GGG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>12/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Regal Crystal Horn enters with ten -1/-1 counters on it.
+Regal Crystal Horn has ward {X} equal to the number of -1/-1 counters it has on it.
+Whenever Regal Crystal Horn attacks, remove a number of -1/-1 counters on it equal to its power.</text>
+    </card>
+    <card>
+      <name>Gorshak, Second to Gargant</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gorshak, Second to Gargant can’t be countered.
+Whenever Gorshak, Second to Gargant attacks, put a +1/+1 counter on each creature you control.
+2R: Creatures you control gets double strike until the end of turn. Activate only if Gorshak has a hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Trampling Gargantuan</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample 
+Forestcycling {2}  ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Arantir&apos;s Wood-Brawler</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Arantir’s Wood-Brawler enters, create three Food tokens.
+Arantir’s Wood-Brawler must be blocked if able.</text>
+    </card>
+    <card>
+      <name>Bark-Hide Hamster</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Scout Ally </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}.
+As long Bark-Hide Hamster is untapped, it gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Heroic Intervention</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Permanents you control gain hexproof and indestructible until the end of turn.</text>
+    </card>
+    <card>
+      <name>Arantir&apos;s Last Stand</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GGG</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each creature your opponents control, create a 4/4 green Elemental tokens with trample. Lands you control doesn’t untap during your next upkeep.</text>
+    </card>
+    <card>
+      <name>Sylvine&apos;s Exodus</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 1/1 green and white Hamster Druid creature tokens with “{T}: Add {G} or {W}.”</text>
+    </card>
+    <card>
+      <name>Nature Charm</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type> Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets +2/+2 and gains trample until the end of turn.
+• Destroy target artifact or enchantment with mana value 4 or less
+• Return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Druid&apos;s Invigoration</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1 until the end of turn. If you control a Druid, target creature gets +4/+4 and gains trample until the end of turn instead.</text>
+    </card>
+    <card>
+      <name>Commune with the Hamsters</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal a Hamster or a Land card from among them and put it into your hand. Put the rest on the bottom in a random order.</text>
+    </card>
+    <card>
+      <name>Hamster&apos;s Agility</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target Hamster you control gains hexproof until the end of turn. Put a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Gale Blow</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with Flying.
+• Destroy target artifact
+• Destroy target enchantment.</text>
+    </card>
+    <card>
+      <name>Sylvine Ambush</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each creature you control deals damage equal to their power to target creature you don’t control.
+Put a Hoard counter on target permanent.</text>
+    </card>
+    <card>
+      <name>Sylvine&apos;s Archery Range</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with power 2 or less enters the battlefield, you may pay {1}, if you do, draw a card.
+Sacrifice a Food or a Resource: Put a hoard counter on target permanent you control.</text>
+    </card>
+    <card>
+      <name>Rising Leaf&apos;s Harvest</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, reveal them and put them onto the battlefield tapped, then shuffle. 
+Create a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Rage of the Bloodsteppe</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Creature.
+When Rage of the Bloodsteppe enters, put a hoard counter on enchanted creature. 
+Enchanted creature gets +1/+1 and has haste.</text>
+    </card>
+    <card>
+      <name>Humming Knight</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever Humming Knight deals combat damage to player, put that many +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Hoarder&apos;s Might</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1. If it has a Hoard counter on it, it also gains indestructible until the end of turn instead.</text>
+    </card>
+    <card>
+      <name>Aspect of the Roots</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Creature. 
+Enchanted Creature gets +2/+2 and has trample.
+When Aspect of the Roots enters, create a Resource token (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Broken-Claw Frontliner</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {4} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)
+When Broken-Claw Frontliner attacks, destroy target artifact or enchantment you don’t control.</text>
+    </card>
+    <card>
+      <name>Sylvine Rangers</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach
+When Sylvine Rangers enters, it deals damage equal to its power to target creature with flying.</text>
+    </card>
+    <card>
+      <name>Sylvine Archdruid</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters, put a +1/+1 on each other creature you control.
+Whenever a creature with +1/+1 counters on it attacks, create a 2/2 green Elemental creature token.</text>
+    </card>
+    <card>
+      <name>World-Root Behemoth</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>10GG</manacost>
+        <cmc>12</cmc>
+        <type>Creature - Beast Plant </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice any number of lands. This spell costs {2} less to cast for each permanent sacrificed this way
+Trample, ward {4}
+When World-Root Behemoth enters the battlefield, put a hoard counter on each land you control. Lands you control with hoard counters on them are 4/4 green Elemental creatures with haste that are still lands.</text>
+    </card>
+    <card>
+      <name>Broken-Claw Warchief</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Other Berserkers, Giants and Mercenaries you control gets +1/+1 and have trample.</text>
+    </card>
+    <card>
+      <name>Rising Leaf&apos;s High Druid</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type> Creature - Hamster Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, search in your library for a basic land card. Put that card onto the battlefield tapped, then shuffle your library. Put a Hoard counter on target permanent you control.</text>
+    </card>
+    <card>
+      <name>Karran Apex Predator</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dinosaur Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, reach
+Protection from Hamsters (This creature can’t be blocked, targeted or dealt damage by Hamsters.)
+Double the damage done by Karran Apex Predator to Hamsters your opponents controls.</text>
+    </card>
+    <card>
+      <name>Brawl at the Woods</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature you don’t control.
+Put a Hoard counter on target creature you control</text>
+    </card>
+    <card>
+      <name>Gale Dancer</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Scout  </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Whenever Gale Dancer attacks, it gets +2/+2 until the end of turn.
+1G: Creatures you control can’t be blocked by creatures with flying.</text>
+    </card>
+    <card>
+      <name>Venerable Kirin</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Kirin Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Venerable Kirin enters, put a +1/+1 counter on target creature you control.
+Whenever you put one or more counters on a creature you control, draw a card, then you may put a land card from your hand onto the battlefield tapped. This ability only triggers once each turn.</text>
+    </card>
+    <card>
+      <name>Verdant Incursion</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to X basic land and/or creature cards, reveal them and put them into your hand, then shuffle. If X is 5 or greater, put the cards revealed onto the battlefield instead and create X 2/2 green Elemental creature tokens.</text>
+    </card>
+    <card>
+      <name>Triumphant Reckoning</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>6WWW</manacost>
+        <cmc>9</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return all artifact, enchantment and planeswalker cards from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Argent-Wind Defender</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long Argent-Wind Defender has a Hoard counter on it, gets +2/+1 and has indestructible.
+Remove a Hoard counter from this creature: Target permanent you control gets hexproof and indestructible until the end of turn.</text>
+    </card>
+    <card>
+      <name>Gilded Champion</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>2RWB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Gilded Champion enters, you may discard a card, if you do, destroy target creature.
+Whenever Gilded Champion attacks, exile the top four cards from your library, you may play them until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Sentinel of Torredivina</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Sentinel of Torredivina enters, you may sacrifice a Food, if you do, put a Hoard counter on it.
+Remove a Hoard counter on this creature: Exile target creature until Sentinel of Torredivina} leaves the battlefield</text>
+    </card>
+    <card>
+      <name>Stormy and Thundara</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/RU/RU/R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, each creature you control gets +1/+0 until the end of turn.</text>
+    </card>
+    <card>
+      <name>Picu&apos;s Illusionist</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Picu’s Illusionist enters, if is not a token, create a copy of it.</text>
+    </card>
+    <card>
+      <name>Gust-Breaker Champion</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gust-Breaker Champion can’t be Countered
+As long an opponent controls a white creature, creatures you control gets +1/+1.
+As long an opponent controls a blue creature, creatures you control gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Sparks, Riot Javelin</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Sparks, Riot Javelin attacks, if its equipped or has an aura on it, it gets +X/+X where X is the number of equipments and/or auras attached to it.
+As long Sparks has three or more Hoard counters on it, it has double strike.</text>
+    </card>
+    <card>
+      <name>Wandering Smith</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Marketplace — When Wandering Smith enters, create a Food token.
+Artifacts spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Frontier Breaker</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hamster Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell cost {4} less to cast if you control a creature with power 7 or greater.
+When Frontier Breaker enters, it fights target creature you don’t control.
+Enrage —Whenever Frontier Breaker is dealt damage, it fights up to one target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Serafin, Blade of the Steppe</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Serafin, Blade of the Steppe attacks, reveal the top X cards from your library where X is Serafin’s power, you may put any number of Hamster creature cards onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Ingvar, Argent-Wind Warden</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2W/UW/U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ingvar, Argent-Wind Warden enters and attacks, target noncreature artifact you control becomes a 4/4 blue Construct artifact creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Rising Leaf&apos;s Sentry</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach
+Rising Leaf’s Sentry can block an additional creature each combat.
+Whenever Rising Leaf’s Sentry blocks, put a hoard counter target creature.</text>
+    </card>
+    <card>
+      <name>Steppe Lancer</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>R/WR/W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Steppe Lancer has double strike as long it has three Hoard counters on it.
+Whenever Steppe Lancer attacks, sacrifice a Food, if you do, put a Hoard counter on target creature.</text>
+    </card>
+    <card>
+      <name>Arashi, Gale Bringer</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>G/WG/WG/WG/W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a creature spell, create a 1/1 green and white Hamster Warrior creature token.
+As long Arashi has a Hoard counter on it, creatures you control gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Burrow Defender</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigiliance.
+As long you control a permanent with a Hoard counter on it, Burrow Defender gets +1/+1</text>
+    </card>
+    <card>
+      <name>Citadel&apos;s Blessing</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/+1 counters on target creature you control. You gain life equal to that creature toughness.</text>
+    </card>
+    <card>
+      <name>Cupcake, Jolly Hoarder</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hamster Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hoard — When Cupcake, Jolly Hoarder enters, you may sacrifice a Food, if you do, put a Hoard counter on it.
+{T}: Add one mana of any color
+{T}: Add two mana of any combination of color. Activate only if Cupcake has a Hoard counter on it.</text>
+    </card>
+    <card>
+      <name>High-Speed Hamster</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3R/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Giant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may sacrifice a Food rather than pay High-Speed Hamster mana cost.
+Flash</text>
+    </card>
+    <card>
+      <name>Skaarg, Frontier Bulwark</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>4WU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{4}: Create Party Crasher, a legendary 0/0 colorless artifact creature. It enters with X +1/+1 counters on it where X is the power of Skaarg.
+As long you control a permanent named Party Crasher, the Hammer, Skaarg gets -X/+0 where X is half the power of Party Crasher rounded up.</text>
+    </card>
+    <card>
+      <name>Ernie, Matriarch Enforcer</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward— Pay 3 life  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player  Pay 3 life .)
+Creatures your opponents control gets -1/-0.
+Your opponents can’t pay life or sacrifice permanents to cast spells or activate abilities.</text>
+    </card>
+    <card>
+      <name>Slushtrail, Ruthless Blade</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>XUB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Hamster Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Slushtrail, Ruthless Blade enters, choose one —
+• Counter target spell with mana value of X or less.
+• Destroy up to one target creature with mana value of X or less.</text>
+    </card>
+    <card>
+      <name>Gargant, Karra&apos;s Pride</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>7/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bellow — Whenever Gargant attacks, if it has a Hoard counter on it, creatures your opponents control gets -1/-1 until the end of turn.
+Boiling Blood — As long its your turn, Gargant is indestructible and must attack each turn if able.</text>
+    </card>
+    <card>
+      <name>Arantir, Mentor of the Woods</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>6GW</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Hamster Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+When Arantir enters, choose one —
+• For each creature that convoked Arantir, put two +1/+1 counters on each one of them.
+•Put two +1/+1 counters on Arantir for each creature that convoked it.</text>
+    </card>
+    <card>
+      <name>War Dancer</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever War Dancer blocks a non-flying creature, it gets +0/+3 until the end of turn.</text>
+    </card>
+    <card>
+      <name>Picu, Tyrannical Gluttony</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>BBR/GW/U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Hamster Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eminence — Whenever you cast a Hamster spell, if Picu is in the command zone or on the battlefield, create a 1/1 white Hamster Soldier creature token.
+As long a nonland permanent an opponent control has five or more Hoard counters on them, you gain control of that permanent.</text>
+    </card>
+    <card>
+      <name>Twin War Blades</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you cast Twin War Blades, copy it.
+Equipped creature gets +1/+1 and has ward {1}
+If a creature equips two or more Twin War Blades, it has double strike.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Bark-Hide Bulwark</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Bark-Hide Bulwark enters, attach it to target creature you control.
+Equipped creature gets +1/+3 and has vigilance and trample.
+Equip {5}</text>
+    </card>
+    <card>
+      <name>Citadel&apos;s Marshal Gambeson</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has hexproof from red.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Captain&apos;s Heavy Plate</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has hexproof and vigilance
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Crystals</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Resource </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Magical Resonance — Instant and Sorcery spells you cast cost {1} less to cast if you spent mana from a Resource.
+ {1}, {T}, sacrifice Crystals: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Gems</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Resource </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stash of the Clouds — Creatures you control with hoard counters on them or Power 4 or greater has ward {1}.  (Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+{1}, {T}, Sacrifice Gems: Add one mana of any color</text>
+    </card>
+    <card>
+      <name>Mercury</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Resource </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alchemical Heresy — Whenever you sacrifice an artifact, draw a card then discard a card. 
+{1},{T}, Sacrifice Mercury: Add one mana of any color</text>
+    </card>
+    <card>
+      <name>Sulfur</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Resource </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Volcanical Fury — {3}, sacrifice this artifact: Target creature gets +3/+3 and gains trample until the end of turn. 
+Activate this only as a Sorcery. {1}, {T} Sacrifice Sulfur: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Clockwork Hoarder</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Clockwork Hoarder has lifelink as long it has a Hoard counter on it,
+{T}, sacrifice a Food: Put a Hoard counter on target permanent you control.</text>
+    </card>
+    <card>
+      <name>Blue-Core Spark-Cell</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blue-Core Spark-Cell enters tapped. {T}: Add {U}. 
+3U, sacrifice Blue-Core Spark-Cell: Scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>Citadel&apos;s Provision-Hauler</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample
+When Citadel’s Provision-Hauler enters and attacks, create a Treasure token.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Citadel&apos;s Extractor</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type> Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Citadel’s Extractor enters, draw a card.
+{2}, {T}: Create a Resource token.  (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Spark-Charged Gauntlets</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has haste. 
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Citadel&apos;s Longsword</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has first strike and ward {2} (Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Scavenger&apos;s Iron Hook</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has “{T}, Sacrifice a Food or Resource: Target creature gets -1/-1 until the end of turn.” 
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Executioner Sword</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creatures gets +3/+1, if equipped creature is a Giant or a Berserker, that creature gets +5/+5 instead.
+Equip {5}</text>
+    </card>
+    <card>
+      <name>Tactical Command Whistle</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{3}, {T}: Target Hamster you control gets +1/+1 until the end of turn. Put a hoard counter on it.</text>
+    </card>
+    <card>
+      <name>Steppe Crossbow</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has “{T}: This creature deals 1 damage to target creature, planeswalker or battle.”
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Alchemical Distiller</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+ {T}, sacrifice a Resource or a Food: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Steppe Battle-Axe</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a Hamster creature enters, you may attach Steppe Battle-Axe to it.
+Equipped creature gets +2/+0.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Festival of Life</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, put a Hoard counter on Festival of Life.
+{2}, Remove a Hoard counter on Festival of Life: Draw a card. 
+Remove twenty Hoard counters on Festival of Life: Creatures you control gets +5/+5 and have double strike, trample and haste, damage can’t be prevented this turn.</text>
+    </card>
+    <card>
+      <name>Crown of the Citadel</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +4/+4 and has protection from each color that’s not in equipped creature’s identity. (This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything each color that’s not in equipped creature’s identity.)
+Equip Legendary {2}
+Equip {4}</text>
+    </card>
+    <card>
+      <name>The Great Hoarding Engine</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your precombat main phase, create a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)
+Whenever you sacrifice a Resource or Food, put a hoard counter on target permanent you control.
+{4}, {T}, Sacrifice three Resources and/or Foods: Search your library for an artifact card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Bloodsteppe Landscape</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type> Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bloodsteppe Landscape enters the battlefield tapped unless you control a Hamster and a Scout.
+{T}: Add {R} or {W}</text>
+    </card>
+    <card>
+      <name>Argent-Wind Cliffs</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Argent Wind Cliffs enters the battlefield tapped unless you control a Hamster and an Artificer.
+{T}: Add {U} or {W}</text>
+    </card>
+    <card>
+      <name>Karran Taiga</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Karran Taiga enters the battlefield tapped unless you control a Hamster and a Berserker.
+({T}: Add {R} or {G})</text>
+    </card>
+    <card>
+      <name>Black-Wind Riverside</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Black-Wind Mire enters the battlefield tapped unless you control a Hamster and a Rogue
+{T}: Add {U} or {B}</text>
+    </card>
+    <card>
+      <name>Sylvine Grove</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sylvine Grove enters the battlefield tapped unless you control a Hamster and a Druid.
+({T}: Add {G} or {W})</text>
+    </card>
+    <card>
+      <name>Karran Meadow</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Karra’s Meadow enters the battlefield tapped unless you control a Hamster and a Giant.
+({T}: Add {G} or {B})</text>
+    </card>
+    <card>
+      <name>Citadel Bastion</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Citadel Bastion enters the battlefield tapped unless you control a Hamster and a Mercenary.
+({T}: Add {B} or {R})</text>
+    </card>
+    <card>
+      <name>Citadel Cathedral</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Citadel Cathedral enters the battlefield tapped unless you control a Hamster and a Cleric.
+({T}: Add {W} or {B} )</text>
+    </card>
+    <card>
+      <name>Alpine Frontier</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Alpine Frontier enters the battlefield tapped unless you control a Hamster and a Wizard.
+({T}: Add {U} or {R})</text>
+    </card>
+    <card>
+      <name>Kirin Sanctuary</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Kirin Sanctuary enters the battlefield tapped unless you control a Hamster and a Monk.
+({T}: Add {G} or {U})</text>
+    </card>
+    <card>
+      <name>Evolving Wilds</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Terraforming Expanse</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Terraforming Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle</text>
+    </card>
+    <card>
+      <name>Overgrown Sanctuary</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Overgrown Sanctuary enters, draw a card.
+At the beginning of your upkeep if you control a permanent with a Hoard counter on it, you gain 2 life.
+2GGG, sacrifice Overgrown Sanctuary: Return target creature from your graveyard and put it into your hand.</text>
+    </card>
+    <card>
+      <name>Questionable Gambeson</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Questionable Gambeson enters, create a 1/1 white Hamster Soldier creature token, then attach this card to it.
+Equiped creature gets +1/+1
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Serafin, Dawn of the Steppe</name>
+      <set rarity="mythic" splitterPath="/Serafin, Dawn of the Steppe.jpg" >WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Serafin, Dawn of the Steppe attacks, until the end of turn it gains “When this creature dies, exile it instead, then return it transformed under his owner control.”
+{R}: Until the end of turn, all creatures an opponent control must block Serafin if able.
+---
+(Back): Serafin, Dusk of the Citadel</text>
+      <related attach="transform">Serafin, Dusk of the Citadel</related>
+    </card>
+    <card>
+      <name>Serafin, Dusk of the Citadel</name>
+      <set rarity="mythic" splitterPath="/Serafin, Dusk of the Citadel.jpg" >WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Planeswalker - Serafin </type>
+        <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Prevent all noncombat damage that would be dealt to Hamster creatures you control.
+[+1]: Add R or W.
+[-3]:  You get an emblem with “Hamster creatures you control gets +2/+0.”
+---
+(Front): Serafin, Dawn of the Steppe</text>
+      <related attach="transform">Serafin, Dawn of the Steppe</related>
+    </card>
+    <card>
+      <name>Plains1</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>mountain1</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island1</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>swamp1</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest1</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Young-Twig Dancer</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Young-Twig Dancer enters, create a 1/1 green and white Hamster Warrior token.</text>
+    </card>
+    <card>
+      <name>Bark-Hide Brawler</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Bark-Hide Brawler as +3/+3 has long you control four or more Forest.</text>
+    </card>
+    <card>
+      <name>Bark-Hide Witness</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GGG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bark-Hide Witness enters, you may return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Arantir&apos;s Mending</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target permanent card from your graveyard to your hand. Put a Hoard counter on target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Swirling Flamelash</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Swirling Flamelash deals 3 damage to each creature.
+Alimancy Applied — You may sacrifice a Food or a Resource, if you do, Swirling Flamelash deals 5 damage to each creature instead.</text>
+    </card>
+    <card>
+      <name>Shen-Hu of the Sanctuary</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hamster Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control with one or more Hoard counters on them get +1/+1 and are Monks in addition to their other types.
+At the beginning of combat on your turn, you may move a Hoard counter from a permanent you control and put it onto another permanent you control.</text>
+    </card>
+    <card>
+      <name>Initiate of the Way</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Initiate of the Way enters, put a Hoard counter on another target permanent you control.
+Whenever a counter is put Initiate of the Way, scry 1</text>
+    </card>
+    <card>
+      <name>Shrine of the Way</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, put a Hoard counter on this enchantment.
+Whenever you put one or more counters on creature you control that had no counters on it, draw a card. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Gentle-Hamster Fist</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, remove any number of Hoard counters from among creatures you control.
+Tap target creature, then put that many stun counters on it. You may put a land card from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Beckanham, Council Scrible</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice one or more other nonland permanents, put a hoard counter on Beckanham. 
+At the beginning of your end step, if Beckham has one or more hoard counters on it, you may remove one, if you do, create a 1/1 white Hamster creature token.</text>
+    </card>
+    <card>
+      <name>Council&apos;s Decree</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or an artifact.
+Exile target creature with mana value 3 or less.</text>
+    </card>
+    <card>
+      <name>Council&apos;s Mortuary</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hamster Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Council’s Mortuary enters, create a 1/1 white hamster creature token.
+Whenever you sacrifice one or more nonland permanents, if this is the first time this ability triggers, you may return target creature card with power 1 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Council&apos;s Ledger</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you sacrifice one or more nonland permanents, put a Hoard counter on Council’s Ledger.
+At the beginning of your end step, you may remove two Hoard counters from Council’s Ledger. If you do, draw a card and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Flutter-Fluff Academy</name>
+      <set rarity="mythic">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}
+{T}, sacrifice two Foods: Return target instant or sorcery from your graveyard and put into your hand.
+{T}, sacrifice ten Foods,exile Flutter-Fluff Academy: Instant and Sorcery spells you cast have storm until the end of turn.</text>
+    </card>
+    <card>
+      <name>Draconical Aspect</name>
+      <set rarity="rare">WOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RRR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +4/+0.
+5RR, exile Draconical Aspect: Untap enchanted creature, after this combat phase, there is another combat phase. </text>
+    </card>
+    <card>
+      <name>Scorpionic Aspect</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has deathtouch.</text>
+    </card>
+    <card>
+      <name>Moss-Paws of the Meadow</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hamster  Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, each opponent loses 1 life and you gain that much life.
+{T}, remove a hoard counter, 4BG: Return target creature card from your graveyard to the battlefield tapped. Activate only as a Sorcery.</text>
+    </card>
+    <card>
+      <name>Hamster&apos;s Concoction</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then return a creature card or a land card from your graveyard to your hand. Put a hoard counter on target permanent.</text>
+    </card>
+    <card>
+      <name>Black-Wind Scrounger</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hamster Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Black-Wind Scrounger dies, create a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Grave-Moss Forager</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hamster Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Grave-Moss Forager enters, mill two cards. If a creature card was milled this way, put a hoard counter on target permanent.</text>
+    </card>
+    <card>
+      <name>Council&apos;s Gravekeeper</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hamster Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Council’s Gravekeeper enters, return target creature with power 2 or less from your graveyard into your hand.</text>
+    </card>
+    <card>
+      <name>Scrapfang, Clever Saboteur</name>
+      <set rarity="uncommon">WOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hamster Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put a hoard counter on Scrapfang, surveil 1.
+{T}, remove a hoard counter from this creature, sacrifice an artifact with mana value X: Return target artifact with mana value less than X from your graveyard and put it into the battlefield.</text>
+    </card>
+    <card>
+      <name>Gentle Crystal-Paw</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gentle Crystal-Paw enters, another creature you control gets trample until the end of turn. Create a Resource token. (It’s an Artifact with “{1}, sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Voracious Karran</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hamster Giant </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Voracious Karran can’t attack unless you sacrifice two foods.</text>
+    </card>
+    <card>
+      <name>Forest2</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest3</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest4</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island2</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island3</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island4</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>mountain2</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>mountain3</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>mountain4</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>swamp2</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>swamp3</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>swamp4</name>
+      <set rarity="">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains2</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains3</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains4</name>
+      <set rarity="common">WOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>

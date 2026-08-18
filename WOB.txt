@@ -4,7 +4,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Elder Hamster ",
-			"collector_number": "20",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/The Great Elder.png"
 			}
@@ -14,7 +14,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Hamster Warrior ",
-			"collector_number": "36",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Rusher.png"
 			}
@@ -23,8 +23,8 @@
 			"name": "Bloodsteppe Courier",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Hamster Lizard ",
-			"collector_number": "7",
+			"type": "Creature — Hamster Lizard Scout ",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Courier.png"
 			}
@@ -34,7 +34,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Ambush.png"
 			}
@@ -44,7 +44,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Hamster Knight ",
-			"collector_number": "27",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ixatli, Wings of the Woods.png"
 			}
@@ -54,19 +54,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "23",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Conscription.png"
-			}
-		},
-		{
-			"name": "Sunsteppe Channeler",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Creature — Hamster Shaman ",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sunsteppe Channeler.png"
 			}
 		},
 		{
@@ -74,17 +64,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "10",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Calming Burrows.png"
 			}
 		},
 		{
 			"name": "Ceaseless Burrower",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Hamster ",
-			"collector_number": "12",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ceaseless Burrower.png"
 			}
@@ -94,7 +84,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": " Creature — Hamster Soldier ",
-			"collector_number": "26",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Impervious Recruit.png"
 			}
@@ -102,29 +92,29 @@
 		{
 			"name": "Steppe Supplier",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": " Creature — Hamster ",
-			"collector_number": "37",
+			"mana_cost": "{1}{W}{W}",
+			"type": " Creature — Hamster Scout ",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Supplier.png"
 			}
 		},
 		{
-			"name": "4th Order Paladin",
-			"rarity": "common",
-			"mana_cost": "{4}{W}{W}",
+			"name": "4th Order Enforcer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Hamster Knight ",
-			"collector_number": "1",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/4th Order Paladin.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/4th Order Enforcer.png"
 			}
 		},
 		{
 			"name": "Bloodsteppe Roadblockers",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
-			"type": "Creature — Hamster ",
-			"collector_number": "9",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Hamster Scout ",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Roadblockers.png"
 			}
@@ -134,7 +124,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Hamster Citizen ",
-			"collector_number": "15",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Crisis Engulfed Hamster.png"
 			}
@@ -144,7 +134,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Hamster ",
-			"collector_number": "8",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Irregulars.png"
 			}
@@ -154,7 +144,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Hamster ",
-			"collector_number": "11",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Caugh Pawn.png"
 			}
@@ -164,7 +154,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Lucky Slip!.png"
 			}
@@ -174,7 +164,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "25",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hiero-Binding.png"
 			}
@@ -184,7 +174,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Griffin ",
-			"collector_number": "18",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Fallen-Pass Griffin.png"
 			}
@@ -194,7 +184,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Hamster Warrior ",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Tireless Sentinel.png"
 			}
@@ -214,19 +204,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Refractive Wave.png"
-			}
-		},
-		{
-			"name": "Armageddon",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": " Sorcery",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Armageddon.png"
 			}
 		},
 		{
@@ -234,7 +214,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Hamster Knight ",
-			"collector_number": "21",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Grove Captain.png"
 			}
@@ -244,7 +224,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Hamster ",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Hoarder.png"
 			}
@@ -252,9 +232,9 @@
 		{
 			"name": "Argent-Wind Instructor",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "4",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Argent-Wind Instructor.png"
 			}
@@ -264,17 +244,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Hamster Scout ",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Aerial Grenadier.png"
 			}
 		},
 		{
 			"name": "Defend the Gates!",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Defend the Gates!.png"
 			}
@@ -282,9 +262,9 @@
 		{
 			"name": "Alpine Bulwark",
 			"rarity": "common",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Hamster Soldier ",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Alpine Bulwark.png"
 			}
@@ -294,7 +274,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sunsteppe's Blessing.png"
 			}
@@ -304,19 +284,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Smothering Tithe.png"
 			}
 		},
 		{
-			"name": "Enlightned Tutor",
+			"name": "Enlightened Tutor",
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Enlightned Tutor.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Enlightened Tutor.png"
 			}
 		},
 		{
@@ -324,7 +304,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{W}",
 			"type": "Creature — Griffin ",
-			"collector_number": "6",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Battle Griffin.png"
 			}
@@ -334,17 +314,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Hamster Peasant ",
-			"collector_number": "39",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stoic Forager.png"
 			}
 		},
 		{
 			"name": "Zealous Preacher",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W}{W}",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Hamster Cleric ",
-			"collector_number": "47",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Zealous Preacher.png"
 			}
@@ -354,7 +334,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Hamster ",
-			"collector_number": "24",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hedonia Inspector.png"
 			}
@@ -364,7 +344,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Not Yet!.png"
 			}
@@ -374,7 +354,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Revitalize.png"
 			}
@@ -384,7 +364,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gift of Light.png"
 			}
@@ -394,7 +374,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Hamster Lizard Scout ",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Wrecker.png"
 			}
@@ -414,7 +394,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Zweihänder.png"
 			}
@@ -424,7 +404,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Hamster Warlock ",
-			"collector_number": "76",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mechanomancer.png"
 			}
@@ -434,7 +414,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Water Flurry.png"
 			}
@@ -444,7 +424,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Hamster Warlock ",
-			"collector_number": "90",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Unskilled Concoctioner.png"
 			}
@@ -454,7 +434,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Hamster Artificer ",
-			"collector_number": "69",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Field Mender.png"
 			}
@@ -474,7 +454,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Alimancy Apprenctice.png"
 			}
@@ -482,9 +462,9 @@
 		{
 			"name": "Stormy Clasher",
 			"rarity": "common",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Hamster Knight ",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stormy Clasher.png"
 			}
@@ -494,7 +474,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "88",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Tidal Bearer.png"
 			}
@@ -510,13 +490,13 @@
 			}
 		},
 		{
-			"name": "LakeWinder",
+			"name": "Lakewinder",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Leviathan ",
-			"collector_number": "74",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/LakeWinder.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Lakewinder.png"
 			}
 		},
 		{
@@ -524,17 +504,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Counterspell.png"
 			}
 		},
 		{
 			"name": "Argent-Wind Peaks",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Argent-Wind Peaks.png"
 			}
@@ -544,7 +524,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Watch.png"
 			}
@@ -554,7 +534,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "72",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Icy Imprissionment.png"
 			}
@@ -564,17 +544,17 @@
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
 			"type": " Instant",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Aetheric Grasp.png"
 			}
 		},
 		{
 			"name": "Archivist's Insight",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "219",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Archivist's Insight.png"
 			}
@@ -584,7 +564,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Crossbowkys's Goggles.png"
 			}
@@ -594,7 +574,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Hamster ",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Crossbowkys Battery.png"
 			}
@@ -604,7 +584,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Mirage.png"
 			}
@@ -614,7 +594,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Calculated Laceration.png"
 			}
@@ -624,7 +604,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Archives of the Peaks.png"
 			}
@@ -634,7 +614,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "71",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Frost-Bound Edict.png"
 			}
@@ -644,7 +624,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Boreal Reflection.png"
 			}
@@ -654,7 +634,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Tides of Alimancy.png"
 			}
@@ -664,7 +644,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Artifact",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Boreal Mirror.png"
 			}
@@ -674,7 +654,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Alimancer Mentor.png"
 			}
@@ -684,7 +664,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Enter the Alimancy.png"
 			}
@@ -694,7 +674,7 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Matriarch's Edict.png"
 			}
@@ -704,7 +684,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rebuke of Winter.png"
 			}
@@ -714,37 +694,37 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Boreal Boon.png"
 			}
 		},
 		{
-			"name": "Ominous Decree",
+			"name": "Enter the Hamster",
 			"rarity": "mythic",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{X}{X}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ominous Decree.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Enter the Hamster.png"
 			}
 		},
 		{
 			"name": "Stormy Scavenger",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{U}{U}",
 			"type": "Creature — Hamster ",
-			"collector_number": "247",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stormy Scavenger.png"
 			}
 		},
 		{
 			"name": "Eirik XII, Stout Tactician",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Hamster Advisor ",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Eirik XII, Stout Tactician.png"
 			}
@@ -762,9 +742,9 @@
 		{
 			"name": "Stormborn Drake",
 			"rarity": "common",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Drake ",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stormborn Drake.png"
 			}
@@ -774,7 +754,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Beast ",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Snow-Born Guinea Pigs.png"
 			}
@@ -794,7 +774,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Hamster ",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Boreal Fisher.png"
 			}
@@ -804,7 +784,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}{U}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "70",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Flutter-fluff Icy Scholar.png"
 			}
@@ -814,7 +794,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Hamster Artificer ",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Pragmatic Mechanist.png"
 			}
@@ -824,7 +804,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "87",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stormy Slider.png"
 			}
@@ -834,7 +814,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Feed the Matriarch.png"
 			}
@@ -844,7 +824,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Hamster Mercenary ",
-			"collector_number": "100",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Skirmishers.png"
 			}
@@ -854,7 +834,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Greedy Hoarding.png"
 			}
@@ -864,7 +844,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Hamster Warlock ",
-			"collector_number": "120",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Pip's Apprenctice.png"
 			}
@@ -874,7 +854,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "114",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hexing Burst.png"
 			}
@@ -884,7 +864,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": " Instant",
-			"collector_number": "105",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Desperate Excavation.png"
 			}
@@ -894,19 +874,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hamster Assassin ",
-			"collector_number": "101",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Slicer.png"
 			}
 		},
 		{
-			"name": "Scavenger's Ploy",
+			"name": "Black-Peaks Vulture",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "125",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Bird  ",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Scavenger's Ploy.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Peaks Vulture.png"
 			}
 		},
 		{
@@ -914,7 +894,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Tribute to the Den.png"
 			}
@@ -922,9 +902,9 @@
 		{
 			"name": "Life Siphoning",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Life Siphoning.png"
 			}
@@ -932,9 +912,9 @@
 		{
 			"name": "Black-Market Extortion",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Market Extortion.png"
 			}
@@ -944,7 +924,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rusty Plague.png"
 			}
@@ -954,7 +934,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Tragic Downfall.png"
 			}
@@ -964,7 +944,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rain of Sorrows.png"
 			}
@@ -974,7 +954,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hamster Rogue ",
-			"collector_number": "98",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Harasser.png"
 			}
@@ -984,7 +964,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}{G}{G}",
 			"type": "Legendary Creature — Hamster Berserker ",
-			"collector_number": "246",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steel-Paws of the Taiga.png"
 			}
@@ -994,7 +974,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "236",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Karran Dread-Fang.png"
 			}
@@ -1004,7 +984,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Hamster Rogue ",
-			"collector_number": "113",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hedonia Brigands.png"
 			}
@@ -1014,7 +994,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Hamster Zombie ",
-			"collector_number": "129",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stitched Aberration.png"
 			}
@@ -1024,17 +1004,17 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hamster ",
-			"collector_number": "118",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mill Servant.png"
 			}
 		},
 		{
 			"name": "Pips, Undaunted Academyst",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Legendary Creature — Hamster Warlock ",
-			"collector_number": "121",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Pips, Undaunted Academyst.png"
 			}
@@ -1044,7 +1024,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Hamster Rogue ",
-			"collector_number": "115",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Isabella, Black-Market Empress.png"
 			}
@@ -1054,7 +1034,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Creature — Hamster Knight ",
-			"collector_number": "217",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/4th Order General.png"
 			}
@@ -1064,7 +1044,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Artifact Creature — Dog Beast ",
-			"collector_number": "107",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ebonfang Prowler.png"
 			}
@@ -1074,7 +1054,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Hamster  Giant ",
-			"collector_number": "123",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Red-Errant Avenger.png"
 			}
@@ -1084,17 +1064,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Hamster Zombie ",
-			"collector_number": "128",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steampunk Revenant.png"
 			}
 		},
 		{
 			"name": "Sylvine Outlaw",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Hamster Rogue ",
-			"collector_number": "130",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine Outlaw.png"
 			}
@@ -1104,7 +1084,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Hamster Mercenary ",
-			"collector_number": "106",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Disavowed Captain.png"
 			}
@@ -1114,27 +1094,27 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Decree.png"
 			}
 		},
 		{
 			"name": "Echoes of the Den",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"rarity": "common",
+			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "108",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Echoes of the Den.png"
 			}
 		},
 		{
 			"name": "Unfatomable pact",
-			"rarity": "rare",
-			"mana_cost": "{X}{B}{B}",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Unfatomable pact.png"
 			}
@@ -1142,29 +1122,29 @@
 		{
 			"name": "Agonizing Extraction",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Instant",
-			"collector_number": "93",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Agonizing Extraction.png"
 			}
 		},
 		{
 			"name": "Altar of the Black-Winds",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "94",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Altar of the Black-Winds.png"
 			}
 		},
 		{
 			"name": "Steampunk Dead-Factory",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "127",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steampunk Dead-Factory.png"
 			}
@@ -1174,7 +1154,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Cruel Bargain.png"
 			}
@@ -1184,7 +1164,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "109",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ernie's Uprising.png"
 			}
@@ -1194,7 +1174,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Death Charm.png"
 			}
@@ -1204,7 +1184,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Creature — Hamster Warlock ",
-			"collector_number": "119",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Outcasted Alimancer.png"
 			}
@@ -1214,7 +1194,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "116",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Karran Foreman.png"
 			}
@@ -1222,9 +1202,9 @@
 		{
 			"name": "Marcelus, Scourge of Karra",
 			"rarity": "uncommon",
-			"mana_cost": "{B/R}{B/R}{B/R}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Hamster Giant ",
-			"collector_number": "252",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Marcelus, Scourge of Karra.png"
 			}
@@ -1234,7 +1214,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Artifact Creature — Dragon ",
-			"collector_number": "134",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Winged Obliterator.png"
 			}
@@ -1244,17 +1224,17 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "95",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/The Behemoth's Fang.png"
 			}
 		},
 		{
 			"name": "Bloodsteppe Scout",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Hamster Scout ",
-			"collector_number": "140",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Scout.png"
 			}
@@ -1264,7 +1244,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "201",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Karra's Battle Rage.png"
 			}
@@ -1272,9 +1252,9 @@
 		{
 			"name": "Meanscale Pack",
 			"rarity": "common",
-			"mana_cost": "{5}{R}",
+			"mana_cost": "{6}{R}",
 			"type": "Creature — Lizard ",
-			"collector_number": "159",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Meanscale Pack.png"
 			}
@@ -1284,7 +1264,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Flame Impression.png"
 			}
@@ -1292,9 +1272,9 @@
 		{
 			"name": "Zealous Hoarder",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Hamster ",
-			"collector_number": "175",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Zealous Hoarder.png"
 			}
@@ -1304,7 +1284,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Tormenting Voice.png"
 			}
@@ -1314,7 +1294,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster's Bonanza.png"
 			}
@@ -1322,9 +1302,9 @@
 		{
 			"name": "Meteor Storm",
 			"rarity": "rare",
-			"mana_cost": "{X}{X}{X}{R}{R}",
+			"mana_cost": "{X}{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Meteor Storm.png"
 			}
@@ -1332,9 +1312,9 @@
 		{
 			"name": "Karran Crusher",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Hamster Giant Warrior ",
-			"collector_number": "235",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Karran Crusher.png"
 			}
@@ -1344,7 +1324,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Hamster Warrior ",
-			"collector_number": "141",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Warchief.png"
 			}
@@ -1354,7 +1334,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "148",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/The fall of Ur'Aspri.png"
 			}
@@ -1362,9 +1342,9 @@
 		{
 			"name": "Raging Thunderfang",
 			"rarity": "common",
-			"mana_cost": "{3}{R}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Cat Beast ",
-			"collector_number": "163",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Raging Thunderfang.png"
 			}
@@ -1374,7 +1354,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Hamster Soldier ",
-			"collector_number": "152",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Grove Razer.png"
 			}
@@ -1384,7 +1364,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Hamster Archer ",
-			"collector_number": "142",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Brittle-Fang Vigilantes.png"
 			}
@@ -1394,17 +1374,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Hamster Warrior ",
-			"collector_number": "143",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Char-Wood Avenger.png"
 			}
 		},
 		{
 			"name": "Bloodsteppe Channeler",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Hamster Shaman ",
-			"collector_number": "137",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Channeler.png"
 			}
@@ -1414,7 +1394,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Hamster Lizard ",
-			"collector_number": "145",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Dealer of the Steppe.png"
 			}
@@ -1424,7 +1404,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": " Instant",
-			"collector_number": "167",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Shatter.png"
 			}
@@ -1434,7 +1414,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Hamster Scout ",
-			"collector_number": "138",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Javelineers.png"
 			}
@@ -1443,8 +1423,8 @@
 			"name": "Avenger of the Steppe",
 			"rarity": "rare",
 			"mana_cost": "{R}",
-			"type": "Creature — Hamster Warrior ",
-			"collector_number": "136",
+			"type": "Creature — Hamster Berserker ",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Avenger of the Steppe.png"
 			}
@@ -1452,29 +1432,29 @@
 		{
 			"name": "Steppe Errand-Runner",
 			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Creature — Hamster ",
-			"collector_number": "172",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Hamster Scout ",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Errand-Runner.png"
 			}
 		},
 		{
-			"name": "Gargant's Thrust",
+			"name": "Gargant's Cleave",
 			"rarity": "common",
 			"mana_cost": "{7}{R}",
 			"type": "Instant",
-			"collector_number": "150",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gargant's Thrust.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gargant's Cleave.png"
 			}
 		},
 		{
 			"name": "Gargant's Last Swing",
 			"rarity": "rare",
-			"mana_cost": "{R}{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Instant",
-			"collector_number": "230",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gargant's Last Swing.png"
 			}
@@ -1484,7 +1464,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Hamster ",
-			"collector_number": "154",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Prospector.png"
 			}
@@ -1492,9 +1472,9 @@
 		{
 			"name": "Rowdy Wing-Wrecker",
 			"rarity": "common",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Hamster Archer ",
-			"collector_number": "165",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rowdy Wing-Wrecker.png"
 			}
@@ -1504,7 +1484,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Anger Charm.png"
 			}
@@ -1512,9 +1492,9 @@
 		{
 			"name": "Karran Arbalest",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — Hamster Mercenary  ",
-			"collector_number": "158",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Karran Arbalest.png"
 			}
@@ -1524,7 +1504,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Cat Beast ",
-			"collector_number": "157",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hulking Thunderfang.png"
 			}
@@ -1534,7 +1514,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "164",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rookie Field Arsonist.png"
 			}
@@ -1544,7 +1524,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Hamster Scout ",
-			"collector_number": "166",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sandstorm Scavenger.png"
 			}
@@ -1552,19 +1532,19 @@
 		{
 			"name": "Steppe Ambusher",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{R}",
 			"type": "Creature — Hamster Scout ",
-			"collector_number": "169",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Ambusher.png"
 			}
 		},
 		{
 			"name": "Rage Channeling",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rage Channeling.png"
 			}
@@ -1574,7 +1554,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": " Instant",
-			"collector_number": "151",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Glorious End.png"
 			}
@@ -1584,27 +1564,27 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Hamster Warrior ",
-			"collector_number": "139",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Ransacker.png"
 			}
 		},
 		{
 			"name": "Gus, Hope of the Steppe",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Hamster Warrior ",
-			"collector_number": "153",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gus, Hope of the Steppe.png"
 			}
 		},
 		{
 			"name": "The Crimson Thunder",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "144",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/The Crimson Thunder.png"
 			}
@@ -1614,7 +1594,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "147",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Emberthrower.png"
 			}
@@ -1624,19 +1604,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "171",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Battlements.png"
 			}
 		},
 		{
-			"name": "Spiteful Clash",
+			"name": "Wandering Mealworm",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "168",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect ",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Spiteful Clash.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Wandering Mealworm.png"
 			}
 		},
 		{
@@ -1644,7 +1624,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster's Bolt.png"
 			}
@@ -1654,7 +1634,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Hamster Giant Shaman ",
-			"collector_number": "186",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Broken-Twig Shaman.png"
 			}
@@ -1664,7 +1644,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Hamster Shaman ",
-			"collector_number": "190",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Enraged Hermit.png"
 			}
@@ -1672,9 +1652,9 @@
 		{
 			"name": "Jolly Relatives",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": " Creature — Hamster Citizen ",
-			"collector_number": "199",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Jolly Relatives.png"
 			}
@@ -1684,7 +1664,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "204",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Peaceful Wanderer.png"
 			}
@@ -1694,7 +1674,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Hamster Shaman ",
-			"collector_number": "187",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Char-Wood Channeler.png"
 			}
@@ -1704,7 +1684,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{G}",
 			"type": "Creature — Cat Beast ",
-			"collector_number": "205",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Regal Crystal Horn.png"
 			}
@@ -1714,7 +1694,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Hamster Giant ",
-			"collector_number": "194",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gorshak, Second to Gargant.png"
 			}
@@ -1724,7 +1704,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast Elemental ",
-			"collector_number": "213",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Trampling Gargantuan.png"
 			}
@@ -1734,7 +1714,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "178",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Arantir's Wood-Brawler.png"
 			}
@@ -1744,7 +1724,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Hamster Scout Ally ",
-			"collector_number": "181",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bark-Hide Hamster.png"
 			}
@@ -1754,7 +1734,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "196",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Heroic Intervention.png"
 			}
@@ -1764,7 +1744,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Instant",
-			"collector_number": "176",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Arantir's Last Stand.png"
 			}
@@ -1774,7 +1754,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine's Exodus.png"
 			}
@@ -1784,7 +1764,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}",
 			"type": " Instant",
-			"collector_number": "202",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Nature Charm.png"
 			}
@@ -1794,7 +1774,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Druid's Invigoration.png"
 			}
@@ -1804,7 +1784,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Commune with the Hamsters.png"
 			}
@@ -1814,7 +1794,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster's Agility.png"
 			}
@@ -1824,7 +1804,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "191",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gale Blow.png"
 			}
@@ -1834,7 +1814,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine Ambush.png"
 			}
@@ -1844,7 +1824,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "211",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine's Archery Range.png"
 			}
@@ -1854,7 +1834,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "206",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rising Leaf's Harvest.png"
 			}
@@ -1864,7 +1844,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "162",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rage of the Bloodsteppe.png"
 			}
@@ -1872,9 +1852,9 @@
 		{
 			"name": "Humming Knight",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{W}",
 			"type": "Creature — Hamster Bird ",
-			"collector_number": "198",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Humming Knight.png"
 			}
@@ -1884,19 +1864,19 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "197",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hoarder's Might.png"
 			}
 		},
 		{
-			"name": "Aspect of the Roots",
+			"name": "Blessing of the Roots",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — aura ",
-			"collector_number": "179",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Aspect of the Roots.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Blessing of the Roots.png"
 			}
 		},
 		{
@@ -1904,7 +1884,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "184",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Broken-Claw Frontliner.png"
 			}
@@ -1914,17 +1894,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Hamster Archer ",
-			"collector_number": "210",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine Rangers.png"
 			}
 		},
 		{
 			"name": "Sylvine Archdruid",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Hamster Druid ",
-			"collector_number": "209",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine Archdruid.png"
 			}
@@ -1934,7 +1914,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{10}{G}{G}",
 			"type": "Creature — Beast Plant ",
-			"collector_number": "216",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/World-Root Behemoth.png"
 			}
@@ -1944,7 +1924,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "185",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Broken-Claw Warchief.png"
 			}
@@ -1954,17 +1934,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": " Creature — Hamster Druid ",
-			"collector_number": "207",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rising Leaf's High Druid.png"
 			}
 		},
 		{
 			"name": "Karran Apex Predator",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dinosaur Beast ",
-			"collector_number": "200",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Karran Apex Predator.png"
 			}
@@ -1974,7 +1954,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Brawl at the Woods.png"
 			}
@@ -1984,7 +1964,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Hamster Scout  ",
-			"collector_number": "192",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gale Dancer.png"
 			}
@@ -1994,29 +1974,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Kirin Avatar ",
-			"collector_number": "248",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Venerable Kirin.png"
 			}
 		},
 		{
 			"name": "Verdant Incursion",
-			"rarity": "rare",
-			"mana_cost": "{X}{G}{G}",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "214",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Verdant Incursion.png"
 			}
 		},
 		{
-			"name": "Triumphant Reckoning",
+			"name": "Midnight Hamster Assault",
 			"rarity": "mythic",
-			"mana_cost": "{6}{W}{W}{W}",
+			"mana_cost": "{X}{X}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Triumphant Reckoning.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Midnight Hamster Assault.png"
 			}
 		},
 		{
@@ -2024,7 +2004,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Hamster Soldier ",
-			"collector_number": "220",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Argent-Wind Defender.png"
 			}
@@ -2034,27 +2014,27 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Creature — Hamster Knight ",
-			"collector_number": "232",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gilded Champion.png"
 			}
 		},
 		{
-			"name": "Sentinel of Torredivina",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Hamster Soldier ",
-			"collector_number": "240",
+			"name": "Earth-Shaker Alimancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hamster Wizard ",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sentinel of Torredivina.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Earth-Shaker Alimancer.png"
 			}
 		},
 		{
 			"name": "Stormy and Thundara",
 			"rarity": "uncommon",
-			"mana_cost": "{U/R}{U/R}{U/R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Stormy and Thundara.png"
 			}
@@ -2064,7 +2044,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Hamster Wizard ",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Picu's Illusionist.png"
 			}
@@ -2074,7 +2054,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Hamster Knight ",
-			"collector_number": "233",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gust-Breaker Champion.png"
 			}
@@ -2084,7 +2064,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Hamster Warrior ",
-			"collector_number": "245",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sparks, Riot Javelin.png"
 			}
@@ -2094,7 +2074,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Hamster Artificer ",
-			"collector_number": "91",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Wandering Smith.png"
 			}
@@ -2104,17 +2084,17 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature — Hamster Berserker ",
-			"collector_number": "228",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Frontier Breaker.png"
 			}
 		},
 		{
 			"name": "Serafin, Blade of the Steppe",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Hamster Warrior ",
-			"collector_number": "241",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Serafin, Blade of the Steppe.png"
 			}
@@ -2122,29 +2102,29 @@
 		{
 			"name": "Ingvar, Argent-Wind Warden",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W/U}{W/U}",
+			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Hamster Artificer ",
-			"collector_number": "251",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ingvar, Argent-Wind Warden.png"
 			}
 		},
 		{
-			"name": "Rising Leaf's Sentry",
+			"name": "On-Duty Sparrow",
 			"rarity": "common",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Hamster Archer ",
-			"collector_number": "238",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird Scout ",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Rising Leaf's Sentry.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/On-Duty Sparrow.png"
 			}
 		},
 		{
 			"name": "Steppe Lancer",
 			"rarity": "rare",
-			"mana_cost": "{R/W}{R/W}",
+			"mana_cost": "{R}{R}{R}",
 			"type": "Creature — Hamster Lizard ",
-			"collector_number": "254",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Lancer.png"
 			}
@@ -2152,9 +2132,9 @@
 		{
 			"name": "Arashi, Gale Bringer",
 			"rarity": "uncommon",
-			"mana_cost": "{G/W}{G/W}{G/W}{G/W}",
+			"mana_cost": "{G}{G}{W}{W}",
 			"type": "Legendary Creature — Hamster Warrior ",
-			"collector_number": "249",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Arashi, Gale Bringer.png"
 			}
@@ -2164,7 +2144,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Hamster Soldier ",
-			"collector_number": "222",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Burrow Defender.png"
 			}
@@ -2174,17 +2154,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Citadel's Blessing.png"
 			}
 		},
 		{
 			"name": "Cupcake, Jolly Hoarder",
-			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Hamster Druid ",
-			"collector_number": "226",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Cupcake, Jolly Hoarder.png"
 			}
@@ -2194,17 +2174,17 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R/G}",
 			"type": "Creature — Hamster Giant Warrior ",
-			"collector_number": "250",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/High-Speed Hamster.png"
 			}
 		},
 		{
 			"name": "Skaarg, Frontier Bulwark",
-			"rarity": "mythic",
-			"mana_cost": "{4}{W}{U}",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
 			"type": "Legendary Creature — Hamster Artificer ",
-			"collector_number": "243",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Skaarg, Frontier Bulwark.png"
 			}
@@ -2214,7 +2194,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{B}",
 			"type": "Legendary Creature — Hamster Cleric ",
-			"collector_number": "227",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Ernie, Matriarch Enforcer.png"
 			}
@@ -2224,27 +2204,27 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{B}",
 			"type": "Legendary Creature — Hamster Rogue ",
-			"collector_number": "244",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Slushtrail, Ruthless Blade.png"
 			}
 		},
 		{
-			"name": "Gargant, Karra's Pride",
-			"rarity": "mythic",
-			"mana_cost": "{1}{B}{B}{R}",
+			"name": "Gargant, Karra's Might",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Hamster Berserker ",
-			"collector_number": "229",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gargant, Karra's Pride.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gargant, Karra's Might.png"
 			}
 		},
 		{
 			"name": "Arantir, Mentor of the Woods",
-			"rarity": "mythic",
-			"mana_cost": "{6}{G}{W}",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Hamster Druid ",
-			"collector_number": "218",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Arantir, Mentor of the Woods.png"
 			}
@@ -2264,7 +2244,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{R/G}{W/U}",
 			"type": "Legendary Creature — Hamster Noble ",
-			"collector_number": "253",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Picu, Tyrannical Gluttony.png"
 			}
@@ -2282,9 +2262,9 @@
 		{
 			"name": "Bark-Hide Bulwark",
 			"rarity": "common",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}{G}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "257",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bark-Hide Bulwark.png"
 			}
@@ -2294,7 +2274,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "260",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Citadel's Marshal Gambeson.png"
 			}
@@ -2304,7 +2284,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "258",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Captain's Heavy Plate.png"
 			}
@@ -2314,7 +2294,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Resource ",
-			"collector_number": "264",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Crystals.png"
 			}
@@ -2324,7 +2304,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Resource ",
-			"collector_number": "267",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gems.png"
 			}
@@ -2334,7 +2314,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Resource ",
-			"collector_number": "269",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mercury.png"
 			}
@@ -2352,9 +2332,9 @@
 		{
 			"name": "Clockwork Hoarder",
 			"rarity": "common",
-			"mana_cost": "{3}",
+			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "262",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Clockwork Hoarder.png"
 			}
@@ -2364,7 +2344,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Blue-Core Spark-Cell.png"
 			}
@@ -2374,7 +2354,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "261",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Citadel's Provision-Hauler.png"
 			}
@@ -2384,7 +2364,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": " Artifact",
-			"collector_number": "259",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Citadel's Extractor.png"
 			}
@@ -2394,17 +2374,17 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Spark-Charged Gauntlets.png"
 			}
 		},
 		{
 			"name": "Citadel's Longsword",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "14",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Citadel's Longsword.png"
 			}
@@ -2412,9 +2392,9 @@
 		{
 			"name": "Scavenger's Iron Hook",
 			"rarity": "common",
-			"mana_cost": "{1}",
+			"mana_cost": "{B}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "271",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Scavenger's Iron Hook.png"
 			}
@@ -2424,7 +2404,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "265",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Executioner Sword.png"
 			}
@@ -2442,9 +2422,9 @@
 		{
 			"name": "Steppe Crossbow",
 			"rarity": "common",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "273",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Crossbow.png"
 			}
@@ -2454,7 +2434,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Alchemical Distiller.png"
 			}
@@ -2464,7 +2444,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "170",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Steppe Battle-Axe.png"
 			}
@@ -2474,7 +2454,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "266",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Festival of Life.png"
 			}
@@ -2484,7 +2464,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "263",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Crown of the Citadel.png"
 			}
@@ -2494,7 +2474,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "268",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/The Great Hoarding Engine.png"
 			}
@@ -2504,7 +2484,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": " Land — Mountain Plains ",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bloodsteppe Landscape.png"
 			}
@@ -2534,7 +2514,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Riverside.png"
 			}
@@ -2544,7 +2524,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains ",
-			"collector_number": "292",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Sylvine Grove.png"
 			}
@@ -2560,13 +2540,13 @@
 			}
 		},
 		{
-			"name": "Citadel Bastion",
+			"name": "Black-Wind Bastion",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Swamp ",
-			"collector_number": "281",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Citadel Bastion.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Bastion.png"
 			}
 		},
 		{
@@ -2614,7 +2594,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Terraforming Expanse.png"
 			}
@@ -2624,7 +2604,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "203",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Overgrown Sanctuary.png"
 			}
@@ -2632,9 +2612,9 @@
 		{
 			"name": "Questionable Gambeson",
 			"rarity": "common",
-			"mana_cost": "{2}",
+			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "270",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Questionable Gambeson.png"
 			}
@@ -2644,7 +2624,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Hamster ",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Serafin, Dawn of the Steppe_front.png"
 			},
@@ -2661,19 +2641,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "288",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Plains1.png"
 			}
 		},
 		{
-			"name": "mountain1",
+			"name": "Mountain1",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/mountain1.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mountain1.png"
 			}
 		},
 		{
@@ -2707,13 +2687,13 @@
 			}
 		},
 		{
-			"name": "Resource",
+			"name": "Resource A",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Resource ",
-			"collector_number": "16",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Resource.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Resource A.png"
 			}
 		},
 		{
@@ -2721,7 +2701,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hamster Soldier ",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Soldier.png"
 			}
@@ -2731,7 +2711,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Elemental 2-2 Flying.png"
 			}
@@ -2741,7 +2721,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Elemental 4-4 Trample.png"
 			}
@@ -2751,7 +2731,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hamster Warrior ",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Warrior.png"
 			}
@@ -2761,7 +2741,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Hamster Zombie ",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Zombie.png"
 			}
@@ -2781,7 +2761,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hamster  ",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster 1-1 Haste.png"
 			}
@@ -2791,7 +2771,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Lizard ",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Lizard.png"
 			}
@@ -2811,7 +2791,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Elemental 2-2.png"
 			}
@@ -2821,7 +2801,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hamster Druid ",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Druid.png"
 			}
@@ -2831,7 +2811,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hamster Mercenary ",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Mercenary.png"
 			}
@@ -2841,7 +2821,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "17",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Treasure.png"
 			}
@@ -2857,13 +2837,13 @@
 			}
 		},
 		{
-			"name": "Party Crasher",
+			"name": "Party Pooper",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact Creature",
-			"collector_number": "15",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Party Crasher.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Party Pooper.png"
 			}
 		},
 		{
@@ -2871,7 +2851,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Hamster Scout ",
-			"collector_number": "180",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bark-Hide Brawler.png"
 			}
@@ -2881,7 +2861,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Hamster Shaman ",
-			"collector_number": "182",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Bark-Hide Witness.png"
 			}
@@ -2891,7 +2871,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Arantir's Mending.png"
 			}
@@ -2901,7 +2881,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hamster Knight ",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster Knight.png"
 			}
@@ -2911,7 +2891,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Swirling Flamelash.png"
 			}
@@ -2921,7 +2901,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Hamster Monk ",
-			"collector_number": "242",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Shen-Hu of the Sanctuary.png"
 			}
@@ -2931,7 +2911,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Hamster Monk ",
-			"collector_number": "73",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Initiate of the Way.png"
 			}
@@ -2941,7 +2921,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Shrine of the Way.png"
 			}
@@ -2951,7 +2931,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "231",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gentle-Hamster Fist.png"
 			}
@@ -2961,19 +2941,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Hamster Advisor ",
-			"collector_number": "221",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Beckanham, Council Scrible.png"
 			}
 		},
 		{
-			"name": "Council's Decree",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "Instant",
-			"collector_number": "223",
+			"name": "Grasp the Hamster",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Council's Decree.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Grasp the Hamster.png"
 			}
 		},
 		{
@@ -2981,7 +2961,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Hamster Cleric ",
-			"collector_number": "225",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Council's Mortuary.png"
 			}
@@ -2991,7 +2971,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Council's Ledger.png"
 			}
@@ -3011,17 +2991,17 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food ",
-			"collector_number": "14",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Food.png"
 			}
 		},
 		{
 			"name": "Draconical Aspect",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "146",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Draconical Aspect.png"
 			}
@@ -3031,7 +3011,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "126",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Scorpionic Aspect.png"
 			}
@@ -3041,7 +3021,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Hamster  Shaman ",
-			"collector_number": "237",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Moss-Paws of the Meadow.png"
 			}
@@ -3051,7 +3031,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "234",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster's Concoction.png"
 			}
@@ -3061,7 +3041,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Hamster Rogue ",
-			"collector_number": "99",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Black-Wind Scrounger.png"
 			}
@@ -3071,7 +3051,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hamster Peasant ",
-			"collector_number": "111",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Grave-Moss Forager.png"
 			}
@@ -3081,7 +3061,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Hamster Cleric ",
-			"collector_number": "102",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Council's Gravekeeper.png"
 			}
@@ -3091,7 +3071,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Hamster Artificer ",
-			"collector_number": "239",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Scrapfang, Clever Saboteur.png"
 			}
@@ -3101,7 +3081,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Cat Beast ",
-			"collector_number": "193",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Gentle Crystal-Paw.png"
 			}
@@ -3111,7 +3091,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Hamster Giant ",
-			"collector_number": "215",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Voracious Karran.png"
 			}
@@ -3177,33 +3157,33 @@
 			}
 		},
 		{
-			"name": "mountain2",
+			"name": "Mountain2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/mountain2.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mountain2.png"
 			}
 		},
 		{
-			"name": "mountain3",
+			"name": "Mountain3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/mountain3.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mountain3.png"
 			}
 		},
 		{
-			"name": "mountain4",
+			"name": "Mountain4",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/mountain4.png"
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Mountain4.png"
 			}
 		},
 		{
@@ -3241,7 +3221,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "289",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Plains2.png"
 			}
@@ -3251,7 +3231,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "290",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Plains3.png"
 			}
@@ -3261,9 +3241,69 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "291",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Plains4.png"
+			}
+		},
+		{
+			"name": "Flare of Heavens",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Flare of Heavens.png"
+			}
+		},
+		{
+			"name": "Slumbering Beetle",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Slumbering Beetle.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Construct.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Clue.png"
+			}
+		},
+		{
+			"name": "Resource b",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Resource ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Resource b.png"
+			}
+		},
+		{
+			"name": "Hamster 1-1b",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hamster ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Hamstermaster123/WOB-MSE/main/WOB/Hamster 1-1b.png"
 			}
 		},
 		]
@@ -3271,39 +3311,42 @@
 	2 The Great Elder
 		2 Ixatli, Wings of the Woods
 		2 Hamster Conscription
-		2 Sunsteppe Channeler
+		2 4th Order Enforcer
 		2 Opulent Courtroom
-		2 Armageddon
 		2 Argent-Wind Instructor
 		2 Smothering Tithe
-		2 Enlightned Tutor
+		2 Enlightened Tutor
 		2 Battle Griffin
+		2 Zealous Preacher
 		2 Steppe Wrecker
 		2 War Balista
 		2 Zweihänder
 		2 Mechanomancer
 		2 Argent-Wind Deflecter
 		2 Alimancy Apprenctice
-		2 Argent-Wind Peaks
+		2 Archivist's Insight
 		2 Tides of Alimancy
 		2 Boreal Mirror
 		2 Matriarch's Edict
+		2 Eirik XII, Stout Tactician
 		2 Argent-Wind General
 		2 Pragmatic Mechanist
+		2 Pips, Undaunted Academyst
 		2 Isabella, Black-Market Empress
 		2 4th Order General
 		2 Ebonfang Prowler
 		2 Red-Errant Avenger
-		2 Unfatomable pact
+		2 Altar of the Black-Winds
+		2 Steampunk Dead-Factory
 		2 The Behemoth's Fang
-		2 Bloodsteppe Scout
 		2 Meteor Storm
 		2 Bloodsteppe Warchief
 		2 The fall of Ur'Aspri
-		2 Bloodsteppe Channeler
 		2 Avenger of the Steppe
 		2 Gargant's Last Swing
 		2 Hulking Thunderfang
+		2 Gus, Hope of the Steppe
+		2 The Crimson Thunder
 		2 Steppe Battlements
 		2 Broken-Twig Shaman
 		2 Regal Crystal Horn
@@ -3311,18 +3354,23 @@
 		2 Heroic Intervention
 		2 Arantir's Last Stand
 		2 Humming Knight
+		2 Sylvine Archdruid
 		2 Broken-Claw Warchief
-		2 Karran Apex Predator
 		2 Gale Dancer
-		2 Verdant Incursion
 		2 Argent-Wind Defender
 		2 Gilded Champion
+		2 Earth-Shaker Alimancer
 		2 Picu's Illusionist
 		2 Gust-Breaker Champion
 		2 Frontier Breaker
+		2 Serafin, Blade of the Steppe
 		2 Steppe Lancer
+		2 Cupcake, Jolly Hoarder
+		2 Skaarg, Frontier Bulwark
 		2 Ernie, Matriarch Enforcer
 		2 Slushtrail, Ruthless Blade
+		2 Gargant, Karra's Might
+		2 Arantir, Mentor of the Woods
 		2 Captain's Heavy Plate
 		2 Crown of the Citadel
 		2 The Great Hoarding Engine
@@ -3332,37 +3380,33 @@
 		2 Black-Wind Riverside
 		2 Sylvine Grove
 		2 Karran Meadow
-		2 Citadel Bastion
+		2 Black-Wind Bastion
 		2 Citadel Cathedral
 		2 Alpine Frontier
 		2 Kirin Sanctuary
 		2 Swirling Flamelash
-		2 Draconical Aspect
-		1 Ominous Decree
-		1 Eirik XII, Stout Tactician
-		1 Pips, Undaunted Academyst
+		2 Grasp the Hamster
+		2 Slumbering Beetle
+		1 Argent-Wind Peaks
+		1 Enter the Hamster
+		1 Unfatomable pact
 		1 Winged Obliterator
 		1 Glorious End
-		1 Gus, Hope of the Steppe
-		1 The Crimson Thunder
-		1 Sylvine Archdruid
 		1 World-Root Behemoth
+		1 Karran Apex Predator
 		1 Venerable Kirin
-		1 Triumphant Reckoning
-		1 Serafin, Blade of the Steppe
-		1 Cupcake, Jolly Hoarder
-		1 Skaarg, Frontier Bulwark
-		1 Gargant, Karra's Pride
-		1 Arantir, Mentor of the Woods
+		1 Verdant Incursion
+		1 Midnight Hamster Assault
 		1 Picu, Tyrannical Gluttony
 		1 Festival of Life
 		1 Serafin, Dawn of the Steppe
 		1 Flutter-Fluff Academy
+		1 Draconical Aspect
+		1 Flare of Heavens
 		[UncommonSlot(3)]
 	9 Bloodsteppe Courier
 		9 Hamster Ambush
 		9 Calming Burrows
-		9 Ceaseless Burrower
 		9 Steppe Supplier
 		9 Bloodsteppe Roadblockers
 		9 Hiero-Binding
@@ -3370,14 +3414,11 @@
 		9 Grove Captain
 		9 Steppe Hoarder
 		9 Aerial Grenadier
-		9 Defend the Gates!
 		9 Sunsteppe's Blessing
-		9 Zealous Preacher
 		9 Gift of Light
 		9 Tidal Bearer
 		9 Argent-Wind Artisan
 		9 Counterspell
-		9 Archivist's Insight
 		9 Crossbowkys's Goggles
 		9 Archives of the Peaks
 		9 Boreal Reflection
@@ -3392,27 +3433,26 @@
 		9 Steel-Paws of the Taiga
 		9 Karran Dread-Fang
 		9 Steampunk Revenant
-		9 Sylvine Outlaw
 		9 Disavowed Captain
 		9 Black-Wind Decree
-		9 Echoes of the Den
 		9 Agonizing Extraction
-		9 Altar of the Black-Winds
-		9 Steampunk Dead-Factory
 		9 Cruel Bargain
 		9 Ernie's Uprising
 		9 Death Charm
 		9 Outcasted Alimancer
 		9 Karran Foreman
 		9 Marcelus, Scourge of Karra
+		9 Bloodsteppe Scout
 		9 Zealous Hoarder
 		9 Karran Crusher
 		9 Brittle-Fang Vigilantes
 		9 Char-Wood Avenger
+		9 Bloodsteppe Channeler
 		9 Bloodsteppe Javelineers
 		9 Anger Charm
 		9 Karran Arbalest
 		9 Steppe Ambusher
+		9 Rage Channeling
 		9 Emberthrower
 		9 Arantir's Wood-Brawler
 		9 Nature Charm
@@ -3424,7 +3464,6 @@
 		9 Sylvine Rangers
 		9 Rising Leaf's High Druid
 		9 Brawl at the Woods
-		9 Sentinel of Torredivina
 		9 Stormy and Thundara
 		9 Sparks, Riot Javelin
 		9 Wandering Smith
@@ -3438,6 +3477,7 @@
 		9 Mercury
 		9 Sulfur
 		9 Blue-Core Spark-Cell
+		9 Citadel's Longsword
 		9 Executioner Sword
 		9 Tactical Command Whistle
 		9 Alchemical Distiller
@@ -3447,20 +3487,20 @@
 		9 Shrine of the Way
 		9 Gentle-Hamster Fist
 		9 Beckanham, Council Scrible
-		9 Council's Decree
 		9 Council's Ledger
 		9 Moss-Paws of the Meadow
 		9 Scrapfang, Clever Saboteur
 		[CommonSlot(6)]
 	30 Steppe Rusher
+		30 Ceaseless Burrower
 		30 Impervious Recruit
-		30 4th Order Paladin
 		30 Crisis Engulfed Hamster
 		30 Bloodsteppe Irregulars
 		30 Caugh Pawn
 		30 Lucky Slip!
 		30 Fallen-Pass Griffin
 		30 Refractive Wave
+		30 Defend the Gates!
 		30 Alpine Bulwark
 		30 Stoic Forager
 		30 Hedonia Inspector
@@ -3470,7 +3510,7 @@
 		30 Unskilled Concoctioner
 		30 Field Mender
 		30 Stormy Clasher
-		30 LakeWinder
+		30 Lakewinder
 		30 Steppe Watch
 		30 Icy Imprissionment
 		30 Aetheric Grasp
@@ -3491,7 +3531,7 @@
 		30 Hexing Burst
 		30 Desperate Excavation
 		30 Black-Wind Slicer
-		30 Scavenger's Ploy
+		30 Black-Peaks Vulture
 		30 Tribute to the Den
 		30 Rusty Plague
 		30 Tragic Downfall
@@ -3499,6 +3539,8 @@
 		30 Hedonia Brigands
 		30 Stitched Aberration
 		30 Mill Servant
+		30 Sylvine Outlaw
+		30 Echoes of the Den
 		30 Karra's Battle Rage
 		30 Meanscale Pack
 		30 Flame Impression
@@ -3509,14 +3551,13 @@
 		30 Dealer of the Steppe
 		30 Shatter
 		30 Steppe Errand-Runner
-		30 Gargant's Thrust
+		30 Gargant's Cleave
 		30 Hamster Prospector
 		30 Rowdy Wing-Wrecker
 		30 Rookie Field Arsonist
 		30 Sandstorm Scavenger
-		30 Rage Channeling
 		30 Bloodsteppe Ransacker
-		30 Spiteful Clash
+		30 Wandering Mealworm
 		30 Hamster's Bolt
 		30 Enraged Hermit
 		30 Jolly Relatives
@@ -3530,8 +3571,8 @@
 		30 Gale Blow
 		30 Rage of the Bloodsteppe
 		30 Hoarder's Might
-		30 Aspect of the Roots
-		30 Rising Leaf's Sentry
+		30 Blessing of the Roots
+		30 On-Duty Sparrow
 		30 Burrow Defender
 		30 High-Speed Hamster
 		30 Twin War Blades
@@ -3540,14 +3581,12 @@
 		30 Citadel's Provision-Hauler
 		30 Citadel's Extractor
 		30 Spark-Charged Gauntlets
-		30 Citadel's Longsword
 		30 Scavenger's Iron Hook
 		30 Steppe Crossbow
 		30 Evolving Wilds
 		30 Terraforming Expanse
 		30 Overgrown Sanctuary
 		30 Questionable Gambeson
-		30 Plains1
 		30 Young-Twig Dancer
 		30 Bark-Hide Brawler
 		30 Arantir's Mending
@@ -3560,9 +3599,6 @@
 		30 Council's Gravekeeper
 		30 Gentle Crystal-Paw
 		30 Voracious Karran
-		30 Plains2
-		30 Plains3
-		30 Plains4
 		[WildcardSlot(2)]
 	10 The Great Elder
 	10 Steppe Rusher
@@ -3570,12 +3606,11 @@
 	10 Hamster Ambush
 	10 Ixatli, Wings of the Woods
 	10 Hamster Conscription
-	10 Sunsteppe Channeler
 	10 Calming Burrows
 	10 Ceaseless Burrower
 	10 Impervious Recruit
 	10 Steppe Supplier
-	10 4th Order Paladin
+	10 4th Order Enforcer
 	10 Bloodsteppe Roadblockers
 	10 Crisis Engulfed Hamster
 	10 Bloodsteppe Irregulars
@@ -3586,7 +3621,6 @@
 	10 Tireless Sentinel
 	10 Opulent Courtroom
 	10 Refractive Wave
-	10 Armageddon
 	10 Grove Captain
 	10 Steppe Hoarder
 	10 Argent-Wind Instructor
@@ -3595,7 +3629,7 @@
 	10 Alpine Bulwark
 	10 Sunsteppe's Blessing
 	10 Smothering Tithe
-	10 Enlightned Tutor
+	10 Enlightened Tutor
 	10 Battle Griffin
 	10 Stoic Forager
 	10 Zealous Preacher
@@ -3615,7 +3649,7 @@
 	10 Stormy Clasher
 	10 Tidal Bearer
 	10 Argent-Wind Artisan
-	10 LakeWinder
+	10 Lakewinder
 	10 Counterspell
 	10 Argent-Wind Peaks
 	10 Steppe Watch
@@ -3636,7 +3670,7 @@
 	10 Matriarch's Edict
 	10 Rebuke of Winter
 	10 Boreal Boon
-	10 Ominous Decree
+	10 Enter the Hamster
 	10 Stormy Scavenger
 	10 Eirik XII, Stout Tactician
 	10 Argent-Wind Breeder
@@ -3654,7 +3688,7 @@
 	10 Hexing Burst
 	10 Desperate Excavation
 	10 Black-Wind Slicer
-	10 Scavenger's Ploy
+	10 Black-Peaks Vulture
 	10 Tribute to the Den
 	10 Life Siphoning
 	10 Black-Market Extortion
@@ -3710,7 +3744,7 @@
 	10 Bloodsteppe Javelineers
 	10 Avenger of the Steppe
 	10 Steppe Errand-Runner
-	10 Gargant's Thrust
+	10 Gargant's Cleave
 	10 Gargant's Last Swing
 	10 Hamster Prospector
 	10 Rowdy Wing-Wrecker
@@ -3727,7 +3761,7 @@
 	10 The Crimson Thunder
 	10 Emberthrower
 	10 Steppe Battlements
-	10 Spiteful Clash
+	10 Wandering Mealworm
 	10 Hamster's Bolt
 	10 Broken-Twig Shaman
 	10 Enraged Hermit
@@ -3753,7 +3787,7 @@
 	10 Rage of the Bloodsteppe
 	10 Humming Knight
 	10 Hoarder's Might
-	10 Aspect of the Roots
+	10 Blessing of the Roots
 	10 Broken-Claw Frontliner
 	10 Sylvine Rangers
 	10 Sylvine Archdruid
@@ -3765,10 +3799,10 @@
 	10 Gale Dancer
 	10 Venerable Kirin
 	10 Verdant Incursion
-	10 Triumphant Reckoning
+	10 Midnight Hamster Assault
 	10 Argent-Wind Defender
 	10 Gilded Champion
-	10 Sentinel of Torredivina
+	10 Earth-Shaker Alimancer
 	10 Stormy and Thundara
 	10 Picu's Illusionist
 	10 Gust-Breaker Champion
@@ -3777,7 +3811,7 @@
 	10 Frontier Breaker
 	10 Serafin, Blade of the Steppe
 	10 Ingvar, Argent-Wind Warden
-	10 Rising Leaf's Sentry
+	10 On-Duty Sparrow
 	10 Steppe Lancer
 	10 Arashi, Gale Bringer
 	10 Burrow Defender
@@ -3787,7 +3821,7 @@
 	10 Skaarg, Frontier Bulwark
 	10 Ernie, Matriarch Enforcer
 	10 Slushtrail, Ruthless Blade
-	10 Gargant, Karra's Pride
+	10 Gargant, Karra's Might
 	10 Arantir, Mentor of the Woods
 	10 War Dancer
 	10 Picu, Tyrannical Gluttony
@@ -3820,7 +3854,7 @@
 	10 Black-Wind Riverside
 	10 Sylvine Grove
 	10 Karran Meadow
-	10 Citadel Bastion
+	10 Black-Wind Bastion
 	10 Citadel Cathedral
 	10 Alpine Frontier
 	10 Kirin Sanctuary
@@ -3829,7 +3863,6 @@
 	10 Overgrown Sanctuary
 	10 Questionable Gambeson
 	10 Serafin, Dawn of the Steppe
-	10 Plains1
 	10 Young-Twig Dancer
 	10 Bark-Hide Brawler
 	10 Bark-Hide Witness
@@ -3840,7 +3873,7 @@
 	10 Shrine of the Way
 	10 Gentle-Hamster Fist
 	10 Beckanham, Council Scrible
-	10 Council's Decree
+	10 Grasp the Hamster
 	10 Council's Mortuary
 	10 Council's Ledger
 	10 Flutter-Fluff Academy
@@ -3854,7 +3887,6 @@
 	10 Scrapfang, Clever Saboteur
 	10 Gentle Crystal-Paw
 	10 Voracious Karran
-	10 Plains2
-	10 Plains3
-	10 Plains4
+	10 Flare of Heavens
+	10 Slumbering Beetle
 	
